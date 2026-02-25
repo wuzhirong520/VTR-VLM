@@ -1,0 +1,26 @@
+name: adaretake
+model_path: /mnt/bn/wzr/models/Qwen2.5-VL-7B-Instruct
+devices_list:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+
+extra_model_config:
+  longvideo_kwargs:
+    frame_chunk_size: 64
+    chunked_prefill_frames: 9999999999
+    kvcache_compression: True
+    kvcache_compression_kwargs: 
+        compression_method: "stdvidlkv"
+        dynamic_compression_ratio: True
+        prompt_guided_compression: True
+        pos_embed_reforge: False
+        max_input_length: 16000
+        enable_temporal_adaptation: True
+        temporal_adaptation_ratio: 4
+        budget_allocation_method: "adakv"

@@ -1,0 +1,4 @@
+name: videoevalpro
+video_dir: /mnt/bn/wzr/datasets/VideoEval-Pro/videos
+anno_path: /mnt/bn/wzr/datasets/VideoEval-Pro/data/test-00000-of-00001.parquet
+subset: "open"

@@ -1,0 +1,20 @@
+benchmark_config: lvbench
+# benchmark_config: videoevalpro_open
+# benchmark_config: longvideobench
+# benchmark_config: videomme
+# benchmark_config: mlvu
+# benchmark_config: mmvu
+
+# vtr_config: pe_g
+vtr_config: pe_l
+# vtr_config: clip4clip
+# vtr_config: clip_l14_336
+# vtr_config: clip_b16
+# vtr_config: siglip
+# vtr_config: clip_b32
+# vtr_config: clip_l14
+# vtr_config: llava_video_encoder
+
+# vtr:
+#   fps: 1
+#   frame_num: 8

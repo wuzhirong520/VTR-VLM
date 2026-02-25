@@ -1,0 +1,19 @@
+benchmark_config: longvideobench
+pre_calc_emb_path: ./pre_calc_emb/longvideobench
+
+vlm_config: llava_video_7b
+
+enable_vtr: true
+
+vtr_config: pe_g
+
+qof:
+  mode: ques_opts
+vtr:
+  top_k: 16
+  top_k_per: 4
+  top_k_per_list: "[2,4,8]"
+ 
+enable_dynamic_resolution: false
+
+dump_vtr_videos: false

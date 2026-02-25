@@ -1,0 +1,11 @@
+name: qwen2.5vl
+model_path: /mnt/bn/wzr/models/Qwen2.5-VL-7B-Instruct
+devices_list:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7

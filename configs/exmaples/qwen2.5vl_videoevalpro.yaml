@@ -1,0 +1,24 @@
+benchmark_config: videoevalpro
+pre_calc_emb_path: ./pre_calc_emb/videoevalpro
+
+vlm_config: qwen2.5vl_7b
+
+enable_vtr: true
+
+vtr_config: pe_g
+
+qof:
+  mode: ques_opts
+vtr:
+  top_k: 48
+  top_k_per: 16
+  top_k_per_list: "[8,16,32]"
+ 
+enable_dynamic_resolution: true
+
+dynamic_resolution:
+  max_total_pixels: 20480
+  max_size: 644
+  min_size: 84
+
+dump_vtr_videos: false

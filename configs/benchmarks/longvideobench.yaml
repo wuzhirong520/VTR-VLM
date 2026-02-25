@@ -1,0 +1,4 @@
+name: longvideobench
+video_dir: /mnt/bn/wzr/datasets/LongVideoBench/videos
+anno_path: /mnt/bn/wzr/datasets/LongVideoBench/validation-00000-of-00001.parquet
+subset: val w/o subs

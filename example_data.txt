@@ -1,0 +1,3528 @@
+76
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_14.mp4
+In this video, how many instances are there of the 'tossing coin' action scene in total?
+["0", "2", "3", "5"]
+B
+
+77
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_187.mp4
+In this video, how many instances are there of the 'paragliding' action scene in total?
+["2", "6", "5", "1"]
+A
+
+80
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_139.mp4
+In this video, how many times does the scene of the 'making jewelry' action appear in total?
+["6", "0", "1", "2"]
+D
+
+78
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_102.mp4
+Throughout this video, what is the total count of occurrences for the scene featuring the 'carving pumpkin' action
+["2", "4", "0", "6"]
+B
+
+91
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_224.mp4
+In this video, how many instances are there of the 'cooking sausages' action scene in total?
+["1", "5", "2", "4"]
+C
+
+92
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_220.mp4
+In this video, how many times does the scene of the 'cooking sausages' action appear in total?
+["2", "4", "6", "3"]
+D
+
+95
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_4.mp4
+In this video, how many instances are there of the 'abseiling' action scene in total?
+["2", "0", "5", "3"]
+A
+
+5
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RN2g9sRuJhA.mp4
+In a room with white tiles, there is a gray countertop. Next to the countertop stands a man wearing a blue checkered shirt, with tattoos on his arms. Beside him, there is a white bowl containing potatoes. What is he doing?
+["Washing the tomatoes", "Peeling the potatoes", "Cutting the potatoes", "Washing the green peppers", "Washing the potatoes"]
+E
+
+7
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RN2g9sRuJhA.mp4
+In a kitchen, there is a man standing wearing a blue shirt with tattoos on his arms. Behind him are some white cabinets and a black countertop. On the black countertop, there is a black pot. In front of the man, there is a plate of prepared food. What is he doing?
+["Taking photos of the food", "Eating the prepared food", "Cutting the food with a knife", "Picking up the food with chopsticks", "Putting on a disposable glove"]
+B
+
+96
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_175.mp4
+In this video, how many instances are there of the 'zumba' action scene in total?
+["4", "3", "0", "2"]
+D
+
+8
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/V-RIpt7Tknc.mp4
+A group of people are gathered in front of a large building's gate, where there is a round ball ornament on top of the gate, and plants on both sides of the gate. There is also a mention of the year 1908. After mentioning the Young Turk Revolution shaking the Ottoman Empire, what other event is mentioned?
+["Bulgaria's proclamation of independence", "The war between the Ottoman Empire and Greece", "The signing of the Treaty of Bucharest", "The Greek War", "The Second Balkan War"]
+A
+
+0
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/4ouAf1ldH60.mp4
+Underneath a shelf filled with round wooden logs, a man is stretching his arms while pulling a long, thin white noodle. What color is the shirt the man is wearing?
+["white", "olive", "red", "black", "purple"]
+D
+
+98
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_26.mp4
+Throughout this video, what is the total count of occurrences for the scene featuring the 'clean and jerk' action
+["6", "3", "5", "0"]
+B
+
+105
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_30.mp4
+What color is the dress of the little girl taking pictures in the video?
+["Blue", "Red", "White", "Blue"]
+C
+
+68
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_71.mp4
+What brand was the pack of tea I took from the cupboard?
+["Celestial Seasonings chamomile", "Twinings infuso strawberry and mango", "Bigelow green tea", "Lipton black tea"]
+B
+
+107
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_5.mp4
+Is there a scene of archery in the video?
+["", "There is an archery scene", "There is no archery scene", ""]
+B
+
+3
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/CGngv8vTQOs.mp4
+On a green grass field, there are some logos on the side. In the middle, there is a blue disk and a gray one, along with three cylindrical wrapped objects. What is it doing?
+["Spiraling upwards", "Flying to the right", "Flying straight up", "Flying to the left", "Falling vertically down"]
+C
+
+111
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_30.mp4
+What color is the clown's hair in the video?
+["White", "Red", "Blue", "Green"]
+B
+
+42
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_81.mp4
+What did i put in the pan?
+["Salt", "Sugar", "Butter", "Oil"]
+C
+
+70
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the brown bag
+["in the closet", "on the floor", "on the table", "under the bed"]
+B
+
+10
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/J1IwKg2ufk8.mp4
+A person wearing an embroidered dress, whose face is not visible, is cutting a tomato on a wooden board with a vegetable knife. What objects are present in this scene?
+["golden fork", "wooden spoon", "ring", "parsley", "pasta"]
+C
+
+11
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/J1IwKg2ufk8.mp4
+In a black pot, there are red ingredients being cooked. A person without a visible face is holding a spatula, stirring the contents in the pot. What objects are present in this scene?
+["chopsticks", "noodles", "wooden spatula", "iron spatula", "fork"]
+C
+
+48
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the black tape before I picked it up
+["on the kitchen counter", "in the backyard", "on the entrance stairs", "under the couch"]
+C
+
+108
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_5.mp4
+What is the weather during the fight at the beginning of the video?
+["Snowstorm", "Cloudy", "Sunny", "Rainy"]
+D
+
+41
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_71.mp4
+What bowl did I take from the cupboard?
+["a green bowl", "a blue bowl", "a white bowl", "a red bowl"]
+C
+
+1
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Aau-XoIebno.mp4
+A man wearing a crimson jacket, black pants, black-framed glasses, and with black hair is sitting cross-legged in front of a silver screen. He is holding a microphone in one hand and his other hand is open, suspended by his leg. What is this man doing?
+["Scratching an itch", "Talking into the microphone", "Holding a water bottle", "Waving to the audience", "Making a phone call"]
+B
+
+71
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the yellow bag
+["in the red drawer", "on the black cabinet top", "under the white chair", "next to the blue vase"]
+B
+
+44
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_81.mp4
+Where did I put the butter?
+["on the counter top", "in the refrigerator", "in the pantry", "in the microwave"]
+A
+
+16
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/fZBC3nmvJb8.mp4
+A man with a beard is holding a paintbrush and intently painting on a canvas. What object is turning white at this moment?
+["canvas", "man's finger", "brush", "scissors", "easel"]
+A
+
+72
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the dog after I opened the front door
+["in the kitchen", "in the backyard", "in the living room", "in the lobby"]
+D
+
+106
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_5.mp4
+What is the weather during the outdoor fight scene with the soldiers standing?
+["Cloudy", "Rainy", "Sunny", "Snowstorm"]
+B
+
+37
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_71.mp4
+Where was the dark blue towel before I first picked it up?
+["folded on the bedroom dresser", "hanging on the bathroom door", "on the kitchen sink", "in the laundry basket"]
+C
+
+133
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_6.mp4
+What color is the car the man drives in the video?
+["Green", "Black", "White", "Yellow"]
+B
+
+112
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_25.mp4
+What color is the dog being held by the man in the movie?
+["Blue", "Yellow", "White", "Red"]
+C
+
+137
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_65.mp4
+What did the riverside sorcerer conjure up at the start of the video?
+["Flame", "Flower", "Wine", "Food"]
+A
+
+18
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/NHIT9vq6mJU.mp4
+In a white room, there are many glass cabinets. A yellowish-white pillar is placed against the wall, and next to the pillar, there is a niche in the wall with a painting inside it. What is the shape of the niche?
+["Square", "Round", "Triangular", "Rectangle", "Arch-shaped"]
+E
+
+113
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_17.mp4
+What color is the clothes of the bald man sitting in the sedan in the video?
+["Green", "White", "Blue", "Red"]
+B
+
+102
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_63.mp4
+At the beginning of the video, what kind of vehicle is the man riding?
+["Camel cart", "Donkey cart", "Horse carriage", "Ox cart"]
+D
+
+36
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the brown wallet
+["next to the brown lamp", "under the brown sofa", "on the brown cabinet top", "in the brown drawer"]
+C
+
+135
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_6.mp4
+Does the scene where several people are having a barbecue together take place during the day or at night?
+["Morning", "Dawn", "Night", "Evening"]
+C
+
+46
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where did I put my lemon green wristwatch
+["in the car's glove compartment", "in the bedroom closet", "on the white table", "in the kitchen drawer"]
+C
+
+110
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_78.mp4
+What color is the woman's dress in the tavern?
+["Pink", "Red", "White", "Green"]
+D
+
+103
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_51.mp4
+What is the old man in Japanese clothing doing on the street?
+["Meditating", "Preparing food", "Running", "Walking"]
+B
+
+22
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/OAcbasjxljY.mp4
+In a room with walls covered in pictures and a world map hanging, what is a man wearing a white beard and a gray shirt doing?
+["Holding a rabbit", "Holding a squirrel", "Holding a sheep", "Holding a small dog", "Holding a cat"]
+D
+
+134
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_102.mp4
+What are the monks doing on the battlefield at the start of the video?
+["Chanting", "Blowing the horn", "Treating the wounded", "Fighting"]
+C
+
+138
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_76.mp4
+What does the man in the video use to pull the woman to walk?
+["Rope", "Scarf", "Backpack", "Tree branch"]
+B
+
+23
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/4ouAf1ldH60.mp4
+On a brown cutting board, a person is holding a knife and cutting an orange carrot. What shape are the carrot pieces that have already been cut?
+["Round", "Triangular", "Long strips", "Minced", "Square"]
+C
+
+35
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the pair of skating shoes before I picked them up
+["in the lost and found department", "at the ice rink", "in a shoe store", "on the road side pavement"]
+D
+
+25
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/mq6L8CnNJXc.mp4
+In front of a wall with blue ceramic tiles, there's a man with a mustache, carrying a backpack and wearing a short-sleeved shirt. What is the color of the straps on the backpack he's carrying in the video?
+["Olive", "Black", "White", "Gray"]
+B
+
+139
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_76.mp4
+After the train stops, what animal appears?
+["Dog", "Cat", "Horse", "Deer"]
+D
+
+116
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_17.mp4
+What color is the clothes of the man who enters the door at the beginning of the video?
+["White", "Red", "Green", "Blue"]
+B
+
+21
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/OAcbasjxljY.mp4
+On a green grass field, a man wearing a short-sleeved shirt is crouching on the ground, and in front of him is a standing prairie dog. What is this man doing?
+["Holding the prairie dog in his hand", "Shaking hands with the prairie dog", "Putting the prairie dog into a basket", "Feeding the prairie dog", "Putting clothes on the prairie dog"]
+D
+
+52
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_81.mp4
+How many mugs did i see on the counter top?
+["2", "3", "4", "1"]
+B
+
+26
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/mTn_C-SyW84.mp4
+In a room, a woman wearing a white coat is facing the mirror and picking up a bouquet of flowers. One of her braids is draped between her eyes. What objects are present in this scene?
+["a necklace", "a watch", "a ring", "a hair clip", "a door"]
+E
+
+27
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/mTn_C-SyW84.mp4
+On a wooden surface, a pair of hands is embroidering flowers on a cloth. There are already some yellow and white flowers embroidered on this cloth. What objects exist in this scene?
+["A flower basket", "A knife", "A wooden stick", "A cup", "A needle"]
+E
+
+140
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_57.mp4
+What did the old man in the video receive as a gift from the police?
+["Television", "Sunglasses", "Food", "Money"]
+B
+
+118
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_89.mp4
+What is the emotion of the old woman at the start of the video?
+["Neutral", "Happy", "Angry", "Crying"]
+D
+
+24
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/4ouAf1ldH60.mp4
+A person is holding a spatula and putting pre-cut meat slices into a pan with hot oil. What is the shape of the pan containing the hot oil?
+["Triangular", "Square", "Stepped", "Rectangular", "Round"]
+E
+
+123
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_64.mp4
+What kind of food does the girl bring at the beginning of the movie?
+["Porridge", "Rice", "Cake", "Steamed bun"]
+D
+
+142
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_57.mp4
+What is the occupation of the old man in the video?
+["Scrap collector", "Teacher", "Police officer", "Doctor"]
+A
+
+120
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_26.mp4
+What color is the safety helmet the worker in the video is wearing?
+["Blue", "Yellow", "Green", "Red"]
+B
+
+57
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_81.mp4
+What did I put in the plastic bag?
+["Apple core", "Orange peel", "Empty soda can", "Banana peel"]
+D
+
+58
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Did I leave the front door open
+["No", "I'm not sure", "Yes", "I don't remember"]
+C
+
+141
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_34.mp4
+What color is the girl's hair in the video?
+["Red", "Blue", "White", "Black"]
+B
+
+121
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_64.mp4
+What is the girl's emotion in the elevator?
+["Joy", "Crying", "Anger", "Neutral"]
+B
+
+29
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/d5JlCEDlHGE.mp4
+In a white room, on a silver floor sits a man with short hair, wearing a black short-sleeved shirt and black shorts. He is holding a white plate. What is this man doing?
+["singing", "running", "drinking water", "dancing", "eating something"]
+E
+
+30
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/d5JlCEDlHGE.mp4
+In a room with a white, square-patterned floor, there is a person with some white hair, wearing a black short-sleeve shirt with red designs. He also has a beard. What is this man doing?
+["Reading a book", "Fishing", "Drinking water", "Playing piano", "Talking"]
+E
+
+125
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_83.mp4
+What scratched the man in yellow clothes in the video?
+["Cactus", "Knife", "Paper", "Scissors"]
+A
+
+56
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where was the leash before I picked it up
+["on the kitchen counter", "on the front door handle", "under the couch", "in the backyard"]
+B
+
+122
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_64.mp4
+What mode of transportation do the boy and girl use to go to school in the movie?
+["Electric scooter", "Bus", "Subway", "Bicycle"]
+D
+
+32
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1R5uPaL0V-0.mp4
+The person on the screen is a black-haired man wearing a T-shirt and a black scarf. He is in a white kitchen, with a stove behind him. On the stove, there are some cylinders and tools, as well as transparent bottles and various other items. In front of the man, there is a countertop with a cutting board and a metal tray containing a large sushi roll. The man is holding a yellow model of a boat. What material is this boat made of?
+["plastic", "wood", "ceramic", "stainless steel", "glass"]
+B
+
+143
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_16.mp4
+What color is the sweater worn by the man at the beginning of the video?
+["Red", "Blue", "Yellow", "White"]
+A
+
+119
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_111.mp4
+Why did the man in the black coat enter the house of the woman in the white coat?
+["To commit a robbery", "To investigate a suspect", "To rescue the woman", "To help the woman"]
+B
+
+145
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_89.mp4
+What color is the old woman's clothing at the start of the video?
+["White", "Black", "Green", "Brown"]
+D
+
+63
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_71.mp4
+How many extra spoons of oats did I put in the second bowl?
+["1", "3", "4", "2"]
+D
+
+146
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_76.mp4
+At the beginning of the video, what does the man in green give to the woman?
+["Train ticket", "Bread", "Water cup", "Key"]
+A
+
+166
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_25.mp4
+What color is the neck brace worn by the driver in the movie?
+["Yellow", "White", "Green", "Blue"]
+D
+
+148
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_9.mp4
+What is inside the can in the forest?
+["Insects", "Grains and water", "Meat", "Candies"]
+B
+
+62
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_36.mp4
+Where did I put the white cup
+["in the sink", "in the refrigerator", "on the black table", "on the white table"]
+D
+
+150
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_109.mp4
+Why are the people in military uniforms heading deep into the prairie?
+["Rest", "To capture someone", "Hide", "Eat"]
+B
+
+124
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_9.mp4
+What color is the wild boar in the video?
+["White", "Black", "Yellow", "Red"]
+B
+
+147
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_16.mp4
+What kind of animals are being kept in the video?
+["Sheep", "Dog", "Cat", "Pig"]
+A
+
+149
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_62.mp4
+What is the blonde woman doing when the bald man comes to find her?
+["Eating", "Taking a bath", "Sleeping", "Doing makeup"]
+B
+
+200
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_138.mp4
+What accessory are the two young women wearing while sitting on the bench in the street?
+["Sunglasses", "Gloves", "Hats", "Scarves"]
+A
+
+127
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_26.mp4
+What color are the glasses the man in the video is wearing?
+["Red", "Black", "Green", "Blue"]
+B
+
+171
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_75.mp4
+What is the animal at the beginning of the video?
+["Cat", "Cow", "Dog", "Horse"]
+C
+
+64
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_71.mp4
+Where did I put the knife?
+["on the living room table", "outside in the garden", "in the bedroom drawer", "in the kitchen sink"]
+D
+
+126
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_78.mp4
+What animal is the woman and man holding in their hands while standing in the night?
+["Pig", "Cat", "Rabbit", "Dog"]
+D
+
+128
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_8.mp4
+When does the scene at the end of the video take place?
+["Morning", "Dusk", "Noon", "Night"]
+D
+
+172
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_89.mp4
+How many people are in the frame at the end of the video?
+["9", "8", "7", "6"]
+D
+
+130
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_30.mp4
+What color is the hoodie the boy in the video is wearing?
+["White", "Purple", "Blue", "Green"]
+B
+
+151
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_106.mp4
+What happens when the woman is taking a bath in the video?
+["She falls", "A man barges in", "A fire breaks out", "An earthquake occurs"]
+B
+
+131
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_30.mp4
+How many knives are stuck in the clown's back in the video?
+["Three", "One", "Two", "Four"]
+C
+
+213
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_31.mp4
+What is the setting of the highway road construction?
+["Underwater", "In space", "Indoor", "Outdoor"]
+D
+
+189
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_142.mp4
+What is at the remembrance war memorial in Toronto, Canada?
+["A fountain", "Thousands of Canadian flags", "A large statue of a horse", "A large statue of a soldier"]
+B
+
+153
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_62.mp4
+What color is the drink the bald man is having at the bar?
+["Blue", "Green", "Red", "Yellow"]
+A
+
+215
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_51.mp4
+What animals are tied beside the paddy field where the two Malays kids are having fun?
+["Dogs", "Horses", "Cows", "Sheep"]
+C
+
+177
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_10.mp4
+What is the expression of the person being kidnapped in the video?
+["Happiness", "Joy", "Fear", "Anger"]
+C
+
+178
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_105.mp4
+What happened after the two children got off the car at the beginning of the video?
+["Reading", "Their purchases were stolen", "Eating snacks", "Drinking water"]
+B
+
+152
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_16.mp4
+What color is the water bottle on the table in the video?
+["White", "Yellow", "Blue", "Green"]
+D
+
+186
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_38.mp4
+What is a popular activity on the beach during the monsoon season?
+["Picnicking", "Surfing", "Playing volleyball", "Fishing"]
+D
+
+155
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_25.mp4
+What color is the hat worn by the man smoking on the bridge?
+["Blue", "Yellow", "White", "Black"]
+D
+
+67
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_47.mp4
+How many tool boxes are on the floor? 
+["3", "4", "1", "2"]
+D
+
+191
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_138.mp4
+What are the two young women wearing in the street?
+["Trendy summer clothes", "Swimwear", "Formal attire", "Winter clothes"]
+A
+
+160
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_58.mp4
+What is the little boy doing at the beginning of the video?
+["Drawing", "Writing", "Playing piano", "Reading"]
+A
+
+154
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_109.mp4
+How do the people in military uniforms deal with the abandoned vehicle after inspecting it at the beginning of the video?
+["Dismantle", "Throw away", "Ignite", "Sell"]
+C
+
+173
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_9.mp4
+What does the man use the fire for in the video?
+["Lighting", "Barbecue", "Making a bonfire", "Building a wall"]
+D
+
+194
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_52.mp4
+Where is the remembrance war memorial with thousands of Canadian flags located?
+["New York, USA", "London, UK", "Toronto, Canada", "Vancouver, Canada"]
+C
+
+195
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_138.mp4
+What are the two young women doing on the bench in the street?
+["Sleeping", "Running", "Eating", "Communicating"]
+D
+
+218
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_22.mp4
+What color is the pumpkin that the chef is using to prepare the soup?
+["Yellow", "Orange", "White", "Green"]
+B
+
+199
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_94.mp4
+Where is the cup that the female potter is stirring paint in?
+["On the floor", "On the table", "On the shelf", "In her hand"]
+B
+
+201
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_68.mp4
+What season is it when the little Asian girl in a bikini is creating sand piles on the beach at sunset?
+["Autumn", "Winter", "Summer", "Spring"]
+C
+
+181
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_78.mp4
+What did the woman split open with a knife?
+["Mat", "Cloth", "Wood", "Paper"]
+A
+
+188
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_119.mp4
+Where is the basketball court located in the video?
+["In a school", "In a park", "In a gym", "On a cruise ship"]
+D
+
+179
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_83.mp4
+What is the man's profession at the end of the video?
+["Worker", "Chef", "Teacher", "Doctor"]
+B
+
+158
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_16.mp4
+What color is the table in the scene where one person gives money to another at the end of the video?
+["White", "Blue", "Green", "Yellow"]
+B
+
+190
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_104.mp4
+What is the obstacle in the middle of the road as the car with a broken windshield rides through the mountain country village?
+["A flock of sheep", "A fallen tree", "A group of people", "A cow"]
+D
+
+198
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_76.mp4
+What is the chef doing with the lobster in the dinner preparation?
+["Boiling", "Grilling", "Baking", "Cutting"]
+D
+
+192
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_51.mp4
+What nationality are the kids having fun in the paddy field?
+["American", "Malays", "Chinese", "Indian"]
+B
+
+206
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_43.mp4
+What is the condition of the highway where the SUV is parked for green screen or chroma key?
+["Under construction", "Empty", "Busy with traffic", "Flooded"]
+B
+
+202
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_17.mp4
+What does the Jack Russell dog want to do while being stroked by the owner in sports boots?
+["Play fetch", "Run away", "Sleep", "Eat"]
+B
+
+162
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_65.mp4
+What happened to the painting of the fat man in the video?
+["Torn", "Smeared", "Burned", "Disappeared"]
+C
+
+163
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_10.mp4
+What color is the background wall that appears in the hospital scene?
+["Red", "Yellow", "Green", "Blue"]
+C
+
+204
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_17.mp4
+What type of dog is the owner in sports boots stroking?
+["Jack Russell", "German Shepherd", "Golden Retriever", "Bulldog"]
+A
+
+234
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_143.mp4
+What is the woman's appearance?
+["She is a young girl", "She is an elderly woman", "She is a middle-aged woman", "She is a beautiful woman"]
+D
+
+210
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_25.mp4
+What is the prey of the blue fin trevally in the video?
+["Jellyfish", "Small reef fish and anthias", "Plankton", "Seaweed"]
+B
+
+229
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_99.mp4
+What is the weather like when the young girl in a tracksuit is doing yoga in the park?
+["Snowy", "Cloudy", "Rainy", "Sunny"]
+D
+
+220
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_22.mp4
+What is the chef doing with the fresh orange pumpkin on the wooden table?
+["Peeling it", "Boiling it", "Roasting it", "Cutting it into slices"]
+D
+
+165
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_34.mp4
+What color is the hoodie that the boy in the video is wearing?
+["Green", "Red", "White", "Black"]
+A
+
+207
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_25.mp4
+What is the habitat of the blue fin trevally shown in the video?
+["Mangrove forest", "Freshwater river", "Open ocean", "Coral reef"]
+D
+
+239
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_68.mp4
+What time of day is the little Asian girl in a bikini creating sand piles on the beach?
+["Sunset", "Afternoon", "Morning", "Midnight"]
+A
+
+169
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_61.mp4
+What is the profession of the female protagonist in the video?
+["Photographer", "Teacher", "Doctor", "Nanny"]
+A
+
+164
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_57.mp4
+What mode of transportation does the woman in the video use?
+["Bus", "Bicycle", "Car", "Electric scooter"]
+D
+
+214
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_106.mp4
+Where are the young mother and her son decorating the Christmas tree in the video?
+["At a shopping mall", "Indoors", "Outdoors", "In a park"]
+C
+
+205
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_138.mp4
+What is the mood of the two young women sitting on the bench in the street?
+["Sad", "Positive", "Angry", "Indifferent"]
+B
+
+157
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_65.mp4
+What fell off the table at the end of the video?
+["Food", "Knife", "Painting", "Wine glass"]
+C
+
+258
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_13.mp4
+At the end of the video, what were the woman and the man in the red plaid shirt fighting over?
+["Notebook", "Cellphone", "Ball", "Phone", "Pen", "Burger"]
+D
+
+236
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_100.mp4
+What is the chef doing with the lobster in the dinner preparation?
+["Cutting", "Grilling", "Baking", "Boiling"]
+A
+
+221
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_21.mp4
+What is the weather like as the car with a broken windshield rides through the mountain country village?
+["Spring cloudy day", "Summer sunny day", "Winter snowy day", "Autumn rainy day"]
+B
+
+43
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ego_47.mp4
+What word was written on the hammer? 
+["pliers", "husky", "wrench", "screwdriver"]
+B
+
+174
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_105.mp4
+Why did the person hiding in the truck run in a hurry?
+["Because there was an earthquake", "Because there was a flood", "Because there was a tsunami", "Because there was a sandstorm"]
+A
+
+289
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/3m29MQ-qPfg.mp4
+What does the hero in the video go to with his roommate when he gets home?
+["Attending a party together.", "Playing computer games.", "Learning together.", "Eating food."]
+D
+
+176
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_10.mp4
+What color is the hat worn by the character in the video?
+["White", "Green", "Red", "Black"]
+A
+
+217
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_119.mp4
+What is the backdrop of the basketball in the video?
+["A forest", "A city skyline", "A bright multi-colored cloudy sky", "A clear blue sky"]
+C
+
+247
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_count_20.mp4
+In this video, how many instances are there of the 'pole vault' action scene in total?
+["1", "6", "3", "5", "0", "2"]
+F
+
+216
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_143.mp4
+What is the woman's reaction when the hand comes out of the computer?
+["She screams", "She laughs", "She is surprised", "She is not surprised"]
+C
+
+170
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_8.mp4
+Where does the fight at the beginning of the video take place?
+["On the island", "In the desert", "On the grassland", "In the forest"]
+D
+
+323
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/e3fz3dqhN44.mp4
+What is the ad in the video about?
+["Quantum computers.", "VPN.", "Airline flights.", "Formula E."]
+B
+
+219
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_22.mp4
+What is the chef preparing with the fresh orange pumpkin?
+["Pumpkin pie", "Creamy pumpkin soup", "Pumpkin salad", "Roasted pumpkin"]
+B
+
+175
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_9.mp4
+What color is the child's hair in the video?
+["Yellow", "Red", "White", "Black"]
+D
+
+209
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_104.mp4
+What is the weather like as the car with a broken windshield rides through the mountain country village?
+["Autumn rainy day", "Winter snowy day", "Spring cloudy day", "Summer sunny day"]
+D
+
+211
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_143.mp4
+What is the woman doing on the computer?
+["Watching a movie", "Playing a game", "Shopping online", "Writing an email"]
+C
+
+226
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_100.mp4
+What is the chef preparing in the dinner by the ocean shore on an island?
+["Lobster", "Fish", "Chicken", "Pork"]
+A
+
+161
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_102.mp4
+Why does the horse-riding soldier enter the temple?
+["To eat", "To rest", "To pursue the wounded", "To steal"]
+C
+
+324
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-XpJeDGh8No.mp4
+Who fight versus the black dinosaur at last?
+["A spider.", "A snake.", "A King Kong.", "A dragon."]
+D
+
+187
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_147.mp4
+Where is the senior businessman having a serious conversation on the cell phone?
+["By the sea shore", "In a park", "In his office", "At a restaurant"]
+A
+
+256
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_count_12.mp4
+Throughout this video, what is the total count of occurrences for the scene featuring the 'riding mule' action
+["1", "6", "4", "2", "5", "0"]
+D
+
+310
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Huj-zXv4DEw.mp4
+What color are the parrots in the video when three of them appear?
+["Blue,black,red.", "Yellow,red,green.", "Yellow,blue,green.", "Red,blue,green."]
+C
+
+296
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/DI6SemRT2iY.mp4
+What's the main color of Nuna?
+["Gray.", "Blue.", "Green.", "Brown."]
+D
+
+331
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/XoaWHHNiw1w.mp4
+What type of flowers are placed on the table between the host and the guest in the video?
+["Lilies.", "Roses.", "Chrysanthemums.", "Sunflowers."]
+D
+
+230
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_51.mp4
+What are the two kids doing in the paddy field?
+["Studying", "Having fun", "Playing football", "Sleeping"]
+B
+
+270
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_21.mp4
+In the video, what is the woman in the gray t-shirt holding while watching TV with others?
+["Toy", "Phone", "Spoon", "Wine glass", "Flashlight", "Snacks"]
+D
+
+300
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/FkZn5u3MIiY.mp4
+In the video, what kind of emotion does the Princess of Wales display?
+["Negative.", "Terrified.", "Positive.", "Pessimistic."]
+C
+
+182
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/movie101_26.mp4
+What color is the pajamas the little girl in the movie is wearing?
+["Green", "Blue", "Red", "Pink"]
+D
+
+278
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/K759eXmaMTY.mp4
+What are the children wearing pink outfits doing at the beginning of the video?
+["Praying.", "Having a party.", "Learning ballet.", "Receiving treatment."]
+C
+
+321
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/V5M_grieetw.mp4
+Who does the video focus on regarding their work with globular clusters?
+["Harlow Shapley.", "Walter Baade.", "William Herschel.", "Henrietta Swan Levitt."]
+A
+
+261
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_5.mp4
+In the video, what is floating on the water?
+["Water Bottles", "Seaweed", "Ropes", "Sailboats", "Feathers", "Plastic Bags"]
+D
+
+260
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_cartoon_21.mp4
+What did the turtle use to make clothes for itself in the video?
+["Leaves", "Plastic Bags", "Iron Sheets", "Branches", "Cloth", "Seaweed"]
+F
+
+348
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rWp5ZpJAIAE.mp4
+How many protraits at most are shown at one point of the video?
+["Two.", "One.", "Three.", "Four."]
+C
+
+254
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_count_54.mp4
+Throughout this video, what is the total count of occurrences for the scene featuring the 'paragliding' action
+["3", "0", "6", "2", "1", "5"]
+D
+
+262
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_18.mp4
+In the video, what is the man in the black T-shirt crying while looking at?
+["Scarf", "Photo", "Glove", "Computer", "Stone", "Ring"]
+B
+
+265
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_21.mp4
+In the video, what letters are written on the shirt of the woman standing on the table?
+["USB", "USA", "CSB", "VSA", "UNA", "CSA"]
+B
+
+277
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-XpJeDGh8No.mp4
+What does the yellow turtle monster do after receiving a red book?
+["Engaging in business.", "Taking a vacation.", "Reading additional newspapers.", "Seeking food."]
+B
+
+233
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_114.mp4
+What is the young girl in the tracksuit doing on a rug in the park?
+["Doing yoga", "Reading a book", "Having a picnic", "Playing soccer"]
+A
+
+307
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/PB06auioy0Y.mp4
+What is likely the emotional tone of the song being performed?
+["Mysterious and intriguing.", "Joyful and uplifting.", "Calm and relaxing.", "Somber and reflective."]
+D
+
+453
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+What instruments are already on the stage before the actors come on?
+["Harp", "Bass", "Drum kit", "Piano"]
+C
+
+264
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_movie101_93.mp4
+What color are the flowers given by the man in the video?
+["Green", "White", "Blue", "Red", "Pink", "Purple"]
+D
+
+308
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/WNYi8LUGIZc.mp4
+What type of cards does the magician ask the female judge to pick one from?
+["Drinks.", "Celebrities.", "Animals.", "Transportations."]
+B
+
+294
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wdcXmerZWDc.mp4
+What is the color of the clothes that the speaker is wearing in the video?
+["Navy blue.", "Pink.", "Green.", "Brown."]
+A
+
+237
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_119.mp4
+What is the weather condition on the basketball court in the video?
+["Sunny", "Rainy", "Beautiful sunset", "Cloudy"]
+C
+
+467
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xi6r3hZe5Tg.mp4
+What animal appears after the interview with Karen Sim and Jeffrey Chong?
+["Bird", "Dragonfly", "Butterfly", "Lizard"]
+B
+
+318
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/x-ccfWcbht4.mp4
+In which year did the main character in the video win his second Emmy?
+["2021.", "2022.", "2019.", "2024."]
+B
+
+292
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pmF41T52nJs.mp4
+What is the color of the shirt that the speaker is wearing in the video?
+["Green.", "Brown.", "Grey.", "White."]
+C
+
+372
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/mFliMGufpwc.mp4
+In a dark room, there is a woman with long hair dressed in yellow and a child. They are both sitting on a bed. What items are present in this room?
+["electric fan", "parrot", "refrigerator", "dog", "cat"]
+A
+
+295
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rWp5ZpJAIAE.mp4
+What is the color of the clothes that William Smith is wearing in his protrait?
+["White.", "Blue.", "Black.", "Yellow."]
+C
+
+404
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What is the camera initially facing in the video?
+["A painting", "A television", "A mirror", "A window"]
+C
+
+271
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_cartoon_2.mp4
+What kind of clothes is the squirrel wearing in the video?
+["Dress", "Jacket", "Shirt", "Spacesuit", "T-shirt", "Sweatshirt"]
+D
+
+293
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wdcXmerZWDc.mp4
+What's the weather like in the city at the beginning of the video?
+["Stormy.", "Rainy.", "Cloudy.", "Sunny."]
+D
+
+350
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/weOrNMHcDTI.mp4
+How many bullets does Rango use to kill the hawl in the video?
+["3.", "2.", "1.", "4."]
+C
+
+402
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wgBlACG927Y.mp4
+What season do the vloggers visit the city?
+["Autumn", "Summer", "Spring", "Winter"]
+D
+
+269
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_cartoon_22.mp4
+What rescued the fish being chased by lava in the video?
+["Turtle", "Octopus", "Shrimp", "Seahorse", "Snake", "Bird"]
+F
+
+343
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/5R64pAPUZmk.mp4
+What does the girl take out from the envelop?
+["A mirror.", "A book.", "A paper.", "A card."]
+D
+
+337
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ntdzrNKRH4g.mp4
+What does the woman in the video recommend wearing while running?
+["Waist Length Tank Tops.", "Satina Leggings.", "Lounge Set.", "Faux Leather Jacket."]
+B
+
+273
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/test_entv_5.mp4
+In the video, what color is the dress worn by the woman on the sailboat?
+["Red", "Yellow", "Blue", "Purple", "White", "Green"]
+C
+
+319
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/GQEYGAJIzAM.mp4
+What is the second planet observed by the main character of the video?
+["Phobos.", "Moon.", "Jupiter.", "Mars."]
+D
+
+377
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xi6r3hZe5Tg.mp4
+What is the relationship between the lady in blue clothes and the kid in yellow clothes?
+["Friendship", "Stranger relationship", "Mother-child relationship", "Teacher-student relationship"]
+D
+
+379
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-hgaSElC3wU.mp4
+From how other cats treat the cat with the white cane, we can infer about its status?
+["There is no such thing as status for cats", "Its status is very high", "Its status is very low", "Its status is similar to theirs"]
+B
+
+353
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/UIvP4xyw9H8.mp4
+How many times does the play die?
+["5.", "6.", "7.", "8."]
+B
+
+330
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ZQIZx5Oqw88.mp4
+Which team in the video reached the finish line first?
+["USA team.", "Canadian team.", "Ghana team.", "South Africa team."]
+B
+
+483
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/aJI8XTa_DII.mp4
+What color of coat does Melania Trump wear for the meeting that is hosted at Helsinki, Finland?
+["Green", "Dark blue", "Bright red", "Yellow"]
+D
+
+364
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/HZJXPm0nhgY.mp4
+At the beginning of this video, how many different colors of acrylic are being squeezed onto the board?
+["5.", "4.", "6.", "3."]
+C
+
+336
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/3x8pvm0g5AU.mp4
+In which city did the video take place?
+["Paris.", "London.", "New York.", "Hong Kong."]
+D
+
+306
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/UeOy1WKeTRY.mp4
+What is the setting of the video?
+["A movie premiere.", "The Tony Awards.", "A television talk show.", "A music video shoot."]
+B
+
+314
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/20gUIdXGuAs.mp4
+How is the game content that appears in the video produced?
+["Pre-set by the game company.", "Performed by real people.", "Generated by AI.", "Undeterminable."]
+C
+
+387
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Xjf5N9S3jAA.mp4
+Who served first in this game?
+["Novak Djokovic", "The referee", "Stefanos Tsitsipas", "Nobody"]
+C
+
+297
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tXb_zrHp4H8.mp4
+What is "Avenues for Justice" mentioned in the video?
+["A travel agency.", "A prison.", "A detective agency.", "A law firm."]
+D
+
+346
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/GPOv72Awo68.mp4
+How many times does Jacob Clifford appear alone in the video?
+["4.", "10.", "8.", "6."]
+D
+
+374
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TJR1oYDDTwg.mp4
+What festival are they celebrating?
+["Mid-Autumn Festival", "Christmas Day", "All Saints' Day", "Valentine's day"]
+B
+
+370
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Huj-zXv4DEw.mp4
+How does the yellow dog feel when a girl wants to cut its hair?
+["Easy.", "Angry.", "Excited.", "Happy."]
+B
+
+471
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What is the yellow semi-circular tool used by black clad engineers in cars?
+["Wheel", "Bearing", "Engine", "Brake caliper"]
+D
+
+340
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/sr284c-q8oY.mp4
+Where is the main character at the beginning of the video when she talks to the camera?
+["Helicopter.", "Hotel.", "Restaurant.", "Cruise ship."]
+D
+
+533
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/uusf1qG_uZ4.mp4
+Who opens the door for JJ when he rings the doorbell on Masha's birthday?
+["Masha's grandma", "Masha's mom", "Masha's grandpa", "Masha's dad"]
+A
+
+381
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/USfvmoalqsw.mp4
+What might be the most common type of grain in this city?
+["Wheat", "Quinoa", "Rice", "Bread"]
+C
+
+311
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pSHVbLPWA28.mp4
+In the middle of the video a photo is shown, what are the dots on the photo?
+["Mercury.", "The Earth.", "Uranus.", "It is impossible to extrapolate."]
+B
+
+475
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What color gloves does the mechanic, who removes the standard exhaust of a car, wear?
+["Blue", "Black", "Red", "Purple"]
+A
+
+496
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/idZkam9zqAs.mp4
+How many people use the trampolines on stage during the performance?
+["5", "4", "2", "3"]
+B
+
+523
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/evYm0cELO3I.mp4
+What does the vlogger wear?
+["An earring", "A scarf", "A ring", "A headband"]
+D
+
+299
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/3EQLFHRHpag.mp4
+What emotion is the song sung by the woman at the end of the video expressing?
+["Respect for leaders.", "Concern about climate change.", "Yearning for a beautiful love.", "Longing for the outside world."]
+B
+
+425
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TJR1oYDDTwg.mp4
+What are the patterns on the shawls of Kings and queens?
+["Heart pattern", "Circle pattern", "Star pattern", "Fruit pattern"]
+A
+
+440
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+What instruments are already on the stage before the actors come on?
+["Harp", "Bass", "Drum kit", "Piano"]
+C
+
+401
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RCAqKnvu_P0.mp4
+On which floor is Shibuya Sky?
+["14", "11", "12", "13"]
+A
+
+421
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/28CIeC8cZks.mp4
+What color is the crystal on the object held by the girl?
+["White", "Yellow", "Red", "Blue"]
+D
+
+406
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/cWEnogdsW78.mp4
+Who maintains the advantage throughout the entire match?
+["Curry", "Old Bruce Lee", "Kyrie", "Fire hulk"]
+B
+
+326
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Rh8sz6ZnXM4.mp4
+At the beginning, what is the player's rank?
+["Third.", "First.", "Second.", "Last."]
+D
+
+345
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/CxBbw8eT624.mp4
+How many individual electrodes are distributed across the circular hole in Neuralink's device?
+["512 electrodes.", "256 electrodes.", "1024 electrodes.", "2048 electrodes."]
+C
+
+322
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/BxrolAZXZFg.mp4
+What sticker does it appear on the screen at the beginning of this video?
+["A pair of eyes.", "A flower.", "A smiling face.", "A raindrop."]
+A
+
+328
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/H54zMD-9Q-8.mp4
+What is in the sky?
+["Stars.", "Birds.", "Balloons.", "Rockets."]
+C
+
+504
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/o-gLbgpzCc8.mp4
+What color is the belt which worn by the character appear on stage first?
+["Red", "White", "Black", "Blue"]
+A
+
+396
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wNCPgIVz15c.mp4
+Which animal does Kareem take care of?
+["Dog", "Panda", "Sheep", "Yak"]
+D
+
+455
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+After the girl with long black hair presses the wrench on the machine, what picture appears?
+["Three apple icons appear", "Three milk carton icons appear", "Three cherry icons appear", "Three ice cream icons appear"]
+D
+
+305
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hQYRDNl-lGI.mp4
+What is the color of the car that is first to start in the race?
+["Red.", "Black.", "Yellow.", "White."]
+C
+
+414
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/q01CUy_gwdU.mp4
+What color is the first plane?
+["Yellow", "Red", "White", "Blue"]
+A
+
+342
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/M_lwC5zPkyo.mp4
+What kind of chess are the old people in the video playing?
+["Mahjong.", "Go.", "Chinese chess.", "Five-in-a-row."]
+C
+
+541
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What color is the atmosphere of the room?
+["Purple", "Green", "Pink", "Red"]
+A
+
+497
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/idZkam9zqAs.mp4
+Before the pink shopping cart prop appearing on stage, what shape of headgears do the people off the stage wear?
+["Shape of TV", "Shape of mouth", "Shape of apple", "Shape of eye"]
+B
+
+607
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QgWRyDV9Ozs.mp4
+What does the prince give Thumbelina when he sends her back from a trip with him?
+["A necklace", "A firefly", "A flower", "A ring"]
+D
+
+344
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/5R64pAPUZmk.mp4
+What is the animal flying in sky?
+["Seagull.", "Whale.", "Turtle.", "Horse."]
+B
+
+485
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/IsdbCjlZ5cQ.mp4
+What object is in front of the J. Edgar Hoover FBI Building sign?
+["A mirror", "An industrial robot", "A camera", "A car"]
+D
+
+375
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TiQBTesZUJQ.mp4
+When do animals move out?
+["Noon", "Night", "Early morning", "Morning"]
+B
+
+468
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xi6r3hZe5Tg.mp4
+What animal is shown in the scene that follows the scene Karen Sim submits a sighting photo and earns a badge on the phone?
+["Whale", "Crocodile", "Lizard", "Hippo"]
+C
+
+442
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+After the girl with long black hair presses the wrench on the machine, what picture appears?
+["Three apple icons appear", "Three milk carton icons appear", "Three cherry icons appear", "Three ice cream icons appear"]
+D
+
+513
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-hgaSElC3wU.mp4
+What is the planet hanging on the stage background?
+["Sun", "Earth", "Moon", "Mars"]
+C
+
+569
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/sk00epALZps.mp4
+From the audience's point of view, what color are the shoes on Kobe's left?
+["Black", "Red", "Purple", "White"]
+D
+
+433
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+What are running around the street?
+["Rabbit", "Spider", "Cat", "Mouse"]
+D
+
+426
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TJR1oYDDTwg.mp4
+What color are the teeth in the middle of the green dragon?
+["Yellow", "Aqua", "Brown", "Faint yellow"]
+D
+
+486
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/t-RtDI2RWQs.mp4
+What does the best supporting actress winner wear?
+["Red dress", "Pink suit", "Light blue dress", "Black dress"]
+C
+
+469
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xi6r3hZe5Tg.mp4
+What color is the device that Mark Wong wears to monitor his health?
+["Black", "Dark blue", "Red", "Yellow"]
+B
+
+501
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/o-gLbgpzCc8.mp4
+What is the first animal to appear on the stage?
+["Horse", "Camel", "Sheep", "Dog"]
+B
+
+506
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/o-gLbgpzCc8.mp4
+What color is the background of the stage when Aladdin is arrested by three men with knives?
+["Blue and white", "Red and blue", "White and red", "Orange and red"]
+C
+
+451
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+One of the events for the celebration is a number of people riding on top of each other and performing acrobatics. How many people are there?
+["5", "3", "2", "4"]
+B
+
+572
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/AeEYQ62t8hA.mp4
+When James Corden is talking to another man through the door, what is the word in the red area on the door?
+["ST-1", "ST-7", "ST-5", "ST-2"]
+D
+
+458
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TiQBTesZUJQ.mp4
+What tool do people use to pick up a sticky, white to transparent food substance?
+["Chopsticks", "Spoon", "Spatulas", "Syringes"]
+A
+
+371
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KTY9bogonyw.mp4
+In the middle of the screen, there is a white-haired man dressed in a black suit with a dark blue tie, sitting in front of a white flag with a blue Star of David. What is this white-haired man doing?
+["Drinking water", "Sleeping", "Writing", "Speaking into a microphone", "Brewing tea"]
+D
+
+503
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/o-gLbgpzCc8.mp4
+What is the first kind of bird to appear on the stage?
+["Bat", "Parrot", "Lark", "Sparrow"]
+B
+
+484
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/IsdbCjlZ5cQ.mp4
+Who are the main individuals featured in this video?
+["Jane Mayer", "James Clapper", "Matt Apuzzo", "Donald John Trump"]
+D
+
+408
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9-gOCOu_KGU.mp4
+Who is the little girl that comes to the sports field?
+["Mo Farah's daughter", "Mo Fara's sister", "Not Mentiened", "Mo Fara's nephew"]
+A
+
+465
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xi6r3hZe5Tg.mp4
+What color hats do children wearing yellow short sleeves wear?
+["Black", "Orange", "Blue", "Red"]
+B
+
+417
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/28CIeC8cZks.mp4
+What color hair do the two kids have in the video?
+["Black", "Blue", "Green", "Red"]
+C
+
+380
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+What might be the most likely reason the vlogger doesn't enter the national monument on the first day?
+["Because it's closed on Monday", "Because foreigners are not allowed to enter", "Because the author does not have enough money to buy a ticket", "Because the author has other things to do"]
+A
+
+626
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wNCPgIVz15c.mp4
+What color are the chairs in the restaurant where the food travelers eat Peshawari chicken with roti?
+["Blue", "Orange", "White", "Black"]
+B
+
+488
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8QdE--Y-x7U.mp4
+Where is the podium located, respective to the people on the stage?
+["There is no rostrum", "On the right side of the stage", "In the middle of the stage", "Left side of the stage"]
+D
+
+477
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What color is the steering wheel?
+["White", "Red", "Black", "Blue"]
+A
+
+490
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8QdE--Y-x7U.mp4
+What color is the bow tie worn by the man who presided over the Nobel Prize in Chemistry?
+["Red bow tie", "Black bow tie", "White bow tie", "Blue bow tie"]
+C
+
+515
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-hgaSElC3wU.mp4
+What color skirts do cats holding white fans wear?
+["Blue", "White", "Black", "Red"]
+B
+
+685
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What shoes does the female singer wear?
+["Sandals", "High-heeled shoes", "Sneaker", "Slippers"]
+C
+
+441
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+What color vest is the man lifting weights wearing?
+["Green", "Blue", "Orange", "Yellow"]
+A
+
+386
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/3_upA09AntU.mp4
+There are four containers on the left side of the table where the bills are placed. What are they used for?
+["For cooking the dishes", "For cooling the sauce", "For heating the sauce", "For cleaning other containers"]
+C
+
+480
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/aJI8XTa_DII.mp4
+Who is the lady in green who is being interviewed?
+["Marie Yovanovitch", "John Bolton", "Fiona Hill", "Heather Conley"]
+D
+
+551
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KLIa2UaE2KE.mp4
+What is the name of the player wearing number 16 for Brazil in the video?
+["Ken", "Dante", "Lucas", "James"]
+C
+
+518
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+What is the color of the vlogger's sunglasses frame?
+["Orange", "Red", "Black", "Blue"]
+A
+
+535
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/O14bbpvy2x0.mp4
+How many pieces of patties does the vlogger cook at the very begining?
+["3", "2", "1", "4"]
+B
+
+657
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8NHmfpkxTSw.mp4
+What color dress does the lady who sings bel canto wear?
+["Brown dress skirt", "Black dress skirt", "White dress skirt", "Red dress skirt"]
+B
+
+492
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/idZkam9zqAs.mp4
+When P!nk performs hanging wire for the first time, what shape of lighting prop does she fall from?
+["Shape of mouth", "Shape of hand", "Shape of moon", "Shape of heart"]
+A
+
+491
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8QdE--Y-x7U.mp4
+Where is the harp player, respective to the people on the stage?
+["Right side of stage", "Second floor on the left", "On the left side of the stage", "Second floor on the right"]
+D
+
+445
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/HfEVEGf1A8Q.mp4
+Who stop the ghost hunter at last?
+["Skeleton", "The human girl", "Principal", "Vampire"]
+D
+
+589
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/SRq0weUKskM.mp4
+What falls in the water at the beginning of the video?
+["A paper", "A leaf", "A photo", "A ring"]
+B
+
+596
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+How many swallows live in the birdhouse?
+["1", "2", "0", "3"]
+B
+
+561
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/EwskdNETNx8.mp4
+What accessory is the second contestant wearing around his neck?
+["Silver pendant", "Leather choker", "Gold chain", "Pearl necklace"]
+D
+
+598
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+What is located in the sea?
+["A bird house", "A flower house", "A palace", "A garden"]
+C
+
+438
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+One of the events for the celebration is a number of people riding on top of each other and performing acrobatics. How many people are there?
+["5", "3", "2", "4"]
+B
+
+643
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+Who was the man who spoke between LORETTA NAPOLEONI and ATEPHEN ASKINS?
+["SERGEY SARANCHA", "PAUL AGATE", "ALI ARIF", "ROGER MIDDLETON"]
+D
+
+653
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8NHmfpkxTSw.mp4
+Who is the green sculpture directly behind the stage?
+["Friedrich Engels", "Karl Heinrich Marx", "Alfred Bernhard Nobel", "Michelangelo Buonarroti"]
+C
+
+446
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+What are running around the street?
+["Rabbit", "Spider", "Cat", "Mouse"]
+D
+
+544
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rSE2YPcv89U.mp4
+After the opposing team scored an own goal, how does the Liverpool players celebrate?
+["They high-five the referee", "They hug each other", "They wave to the crowd", "They do a victory dance"]
+B
+
+552
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KLIa2UaE2KE.mp4
+A famous football star comes to watch the game, who is he?
+["Aguero", "Neymar", "Ronaldo", "Messi"]
+B
+
+459
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TiQBTesZUJQ.mp4
+What kind of transportation do the people carry on the boat?
+["Car", "Bike", "Motocycle", "Skateboard"]
+C
+
+519
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+How is the weather after the vlogger walking out of the church?
+["Windy", "Rainy", "Cloudy", "Sunny"]
+C
+
+555
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/CgvJqGxzRfE.mp4
+What instrument is the eighth contestant playing?
+["Piano", "Cello", "Erhu", "Guitar"]
+D
+
+528
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Mcggugol2ts.mp4
+What are the items sold in the bookoff that the vlogger went to?
+["Book, Handmade, switch, DVDs, MP3", "Book, phone, switch, trinkets, cards, TV, MP3", "Book, phone, switch, DVDs", "Book, phone, switch, trinkets, cards"]
+D
+
+601
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+What are put into the  gold carriage?
+["Some bombs", "Some toys", "Hard to observe", "Delicious food"]
+D
+
+697
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QB7FoIpx8os.mp4
+What color is the inner layer of clothing worn by the second speaker in the video?
+["Green", "Red", "Gray", "Black"]
+D
+
+529
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Mcggugol2ts.mp4
+What does the vlogger buy after coming out of the bookstore?
+["Beer", "Coke", "Juice", "Sparkling water"]
+D
+
+526
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RbpKkvlHYTw.mp4
+What is the vlogger's first meal in Hannam?
+["Beggar's chicken", "Hangover stew", "Kiln-roasted chicken", "Oriental roast chicken"]
+D
+
+683
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What was the first instrument to appear in the video?
+["Bass", "Drum kit", "Electric piano", "Guitar"]
+B
+
+560
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/EwskdNETNx8.mp4
+What color are the pants worn by the first contestant in the video?
+["Pink", "Green", "Black", "White"]
+D
+
+576
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qAIRFyR6NyQ.mp4
+What color are the birds at the beginning of the video?
+["Black", "Yellow", "White", "Blue"]
+C
+
+542
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What is the first thing the vlogger drops?
+["The mobile phone", "The water bottle", "The charger", "The pillow"]
+B
+
+432
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/HfEVEGf1A8Q.mp4
+Who stop the ghost hunter at last?
+["Skeleton", "The human girl", "Principal", "Vampire"]
+D
+
+577
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qAIRFyR6NyQ.mp4
+What color hat does the protagonist wear the day she leaves her home?
+["Red", "Blue", "Black", "Yellow"]
+B
+
+559
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/EwskdNETNx8.mp4
+How many contestants can be seen playing the piano in the video?
+["1", "4", "3", "2"]
+D
+
+595
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/SRq0weUKskM.mp4
+What appears at the branch of the tree talking to the bear and frog in the night?
+["A black bird", "A blue bird", "A pink bird", "A green bird"]
+C
+
+646
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+What did the man interviewed after Sergey Sarancha hold in his hand?
+["A pair of glasses", "A cup of coffee", "A glass of milk", "A pair of gloves"]
+A
+
+550
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/VTCDQYYKA9o.mp4
+Who is wearing the black mask and orange shirt in the video?
+["The referee", "The player", "The audience", "The coach"]
+A
+
+473
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What job is the man in red responsible for?
+["Cleaning the seats", "Restoring the seats", "Adjusting the seat", "Stripping the seats"]
+D
+
+420
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/28CIeC8cZks.mp4
+What color are the balls held by the two people in the video?
+["Black", "Blue", "Green", "Red"]
+B
+
+659
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/YlQugR7KSKg.mp4
+What color is the wall light around the stage?
+["Red", "Blue", "Green", "Yellow"]
+D
+
+632
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+What color tops are most of the elementary school students wearing in the video?
+["Yellow", "White", "Black", "Blue"]
+A
+
+672
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/FaV0tIaWWEg.mp4
+What color are the straps worn around the audience's necks?
+["Blue", "Red", "Green", "Purple"]
+C
+
+708
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RCAqKnvu_P0.mp4
+What kind of transportation does the vlogger use to get to Shibuya Scramble Crossing?
+["Bus", "Train", "Car", "Subway"]
+B
+
+634
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ihfjEFGdZdc.mp4
+What color are the staff uniforms of Bugatti workers?
+["Blue", "White", "Grey", "Black"]
+D
+
+510
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QWXlvx1GoTY.mp4
+What color are the cups on the table of the two presenters?
+["Red", "Write", "Blue", "Black"]
+D
+
+537
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/O14bbpvy2x0.mp4
+What color is the rubber part of the tong?
+["Navy blue", "Dark green", "Baby blue", "Light yellow"]
+B
+
+539
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/3_upA09AntU.mp4
+What color of the sauce which is put on the dish that has pepper as its side?
+["Green", "Orange", "Yellow", "Red"]
+A
+
+618
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RjDrZkBwzho.mp4
+What color is the bow tie on Miss Mantis's chest?
+["Pink", "Black", "Green", "Red"]
+B
+
+588
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gXnhqF0TqqI.mp4
+What color of clothes does the water vole wear when it first appears?
+["Blue", "White", "Red", "Green"]
+B
+
+611
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pXD3txG2bVQ.mp4
+What color is the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?
+["Black", "Yellow", "White", "Blue"]
+A
+
+658
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/YlQugR7KSKg.mp4
+What is the main color of the decoration design of the whole stage?
+["Yellow and red", "Blue and red", "Yellow and blue", "Green and red"]
+C
+
+604
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QgWRyDV9Ozs.mp4
+What color is the feather on the hat worn by the swallow at the beginning of the film?
+["Red", "Yellow", "Brown", "Pink"]
+D
+
+760
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/k2FIFQIYBvA.mp4
+What is the first playing card that the man in the white shirt put on the table?
+["Hearts 5", "Clubs 5", "Clubs 10", "Hearts 10"]
+D
+
+581
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Za2Z_JRxCuk.mp4
+What is hidden behind the stone at the garden?
+["A tiger", "A monkey", "A mouse", "A wolf"]
+B
+
+686
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What color is her floor microphone stand?
+["Brown", "Red", "Pink", "Black"]
+C
+
+454
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+What color vest is the man lifting weights wearing?
+["Green", "Blue", "Orange", "Yellow"]
+A
+
+593
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/SRq0weUKskM.mp4
+What does the bear first catch?
+["A fairy", "A mouse", "A bird", "A frog"]
+D
+
+602
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+Are there foxes in the place that has a cage with rabbits?
+["Hard to observe", "No", "Yes", "I don't know"]
+C
+
+640
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+What type of earrings does the woman who sits at the steering wheel wear?
+["Star style earrings", "Diamond earrings", "Pearl style earrings", "Rose style earrings"]
+C
+
+637
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ihfjEFGdZdc.mp4
+What color is the car they assemble?
+["Black", "Silver", "Gold", "White"]
+D
+
+810
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qYMnM5blZIE.mp4
+What is written on the sign when a group of workers wearing orange protective gear hammer to the ground?
+["Danger Plage Interdite", "Danger Poison Caterpillars", "Ilegal Place", "Extreme Danger"]
+A
+
+616
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RjDrZkBwzho.mp4
+What's the panda's hand?
+["Tape recorder and gun", "Tape recorder and shovel", "Guns and shovels", "Shovel and bucket"]
+B
+
+633
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+What color is the oxygen tank that appears the last in the video?
+["Blue", "Red", "Black", "Yellow"]
+D
+
+696
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QB7FoIpx8os.mp4
+How many people are there at the beginning of the video?
+["5", "2", "4", "3"]
+B
+
+644
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+How many people dragged the blue and white wooden boat ashore at the same time?
+["10", "12", "11", "13"]
+C
+
+612
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pXD3txG2bVQ.mp4
+What color is the rabbit after the yellow box is replaced by the cat?
+["Pink", "Yellow", "White", "Blue"]
+D
+
+534
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/uusf1qG_uZ4.mp4
+What color does Pablo wear most often?
+["Red", "Black", "Blue", "Yellow"]
+D
+
+669
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/lDlA7cfNk8A.mp4
+How many microphones are there on the podium?
+["1", "4", "2", "3"]
+C
+
+707
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RCAqKnvu_P0.mp4
+What does the vlogger eat on the first day evening?
+["Sandwich", "Tempura", "Ramen", "Sushi"]
+C
+
+636
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ihfjEFGdZdc.mp4
+How are the two parts, one for the front seats and one for the back seats, put together and then assembled?
+["Controlled by computer", "Rely on manpower", "Rely on a forklift", "Rely on gravity"]
+B
+
+575
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/moALQl818ZY.mp4
+How many people appear in the screen when NCAA WOMAN'S BASKETBALL VP is interviewed?
+["3", "2", "4", "1"]
+A
+
+788
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hROKtPqktO8.mp4
+What are the words on the warning sign the vlogger first notices?
+["Attention Hotspring", "Attention Volcano", "Danger Volcano", "Danger Hotspring"]
+D
+
+624
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/EpMLAQbSYAw.mp4
+What does Jacoby have on his hand in the interview with Jeremy?
+["Cigarette", "Phone", "Food", "Pen"]
+D
+
+662
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/YlQugR7KSKg.mp4
+What clothes does the person who presides over the Nobel Prize in Chemistry wear?
+["Black suit", "Red suit", "Long red dress", "Long black dress"]
+C
+
+673
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/FaV0tIaWWEg.mp4
+Who is the earliest character in the entire video?
+["Two teenage males", "Two teenage females", "Two elderly females", "A teenage female, a teenage male"]
+B
+
+608
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QgWRyDV9Ozs.mp4
+When the toads leaves, who is the first to appear before Thumbelina and help her?
+["A woman with a dog", "Swallow in hat", "Prince riding an insect", "Mermaid in the river"]
+B
+
+688
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What color guitar is the female singer holding?
+["Write", "Black", "Green", "Brown"]
+A
+
+630
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wNCPgIVz15c.mp4
+How many different outfits has the American man worn in total in the video?
+["10", "1", "5", "2"]
+C
+
+869
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/q01CUy_gwdU.mp4
+How is the weather before the season transitions to winter?
+["Rainy", "Windy", "Snowy", "Sunny"]
+A
+
+600
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+What is on the other side of the river when the girl rides on a boat in spring?
+["The entry to another world", "A larger river", "A high mountain", "A beautiful palace"]
+D
+
+511
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QWXlvx1GoTY.mp4
+What color is the hostess of the first set of live hosts they connected wearing?
+["Grey suit", "Black suit", "Red suit", "Dark blue suit"]
+C
+
+813
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KktLi3UifPY.mp4
+What payment method appears in the video at last?
+["Alipay", "RPay", "Apple Pay", "WeChat Pay"]
+B
+
+706
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_T2Avd3tFHc.mp4
+What color of shirts does the vlogger team wear on the second day evening event?
+["Pink", "Black", "Brown", "White"]
+D
+
+631
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+What is the person doing while passing by the sign that has "Climate Change Adaptation Support Project Pilot Site" written on it?
+["Running", "Walking", "Riding a bicycle", "Swimming"]
+C
+
+761
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/k2FIFQIYBvA.mp4
+What card does the woman draw?
+["Spades Q", "Hearts 8", "Spades 8", "Spades J"]
+D
+
+717
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2zkJFv-ro4A.mp4
+What are the props in the hands of the audience during the concert?
+["Yellow glow stick", "Yellow crown props", "Red crown props", "Blue glow stick"]
+B
+
+699
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QB7FoIpx8os.mp4
+What color clothes is the speaker wearing during the live stream at the factory in the video?
+["Green", "White", "Blue", "Yellow"]
+B
+
+856
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What is the name of Sierra's former roommate?
+["Mia", "Kindall", "Alexis", "Roxana"]
+B
+
+690
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What balls did the dancers carry onto the stage?
+["Football-style yoga ball", "Table tennis style yoga ball", "Volleyball style yoga ball", "Basketball-style yoga ball"]
+D
+
+668
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/lDlA7cfNk8A.mp4
+What color is the bow tie of the Nobel Prize winner in literature?
+["Red", "White", "Black", "Blue"]
+B
+
+584
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qYMnM5blZIE.mp4
+An ant and a spider go sailing. What is inside the cabin?
+["IMac", "IPod", "IPad", "IPhone"]
+B
+
+770
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vHlSoxg8WHo.mp4
+What's the relationship between Raymond and Jason?
+["Brothers", "Friends", "Cousins", "Father and son"]
+C
+
+609
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QgWRyDV9Ozs.mp4
+What color is the bouquet Thumbelina holding when she marry the prince?
+["Baby blue", "Dark green", "Faint yellow", "French grey"]
+A
+
+733
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What does the vlogger hold in the equipment room at the gym?
+["Basketball", "Protein bar", "Dumbbell", "Slippers"]
+D
+
+792
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RbpKkvlHYTw.mp4
+Where is the vlogger when it comes to day 6?
+["Masan", "Seoul", "Muan", "Busan"]
+D
+
+754
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2LH3JCGkEBU.mp4
+How many people are in the waiting room with the two contestants for the short program team competition at Sochi 2014?
+["8", "10", "2", "12"]
+B
+
+692
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What is Katy Perry's hair like?
+["Straight hair only", "Straight hair pony tail", "Curly hair only", "Curly hair pony tail"]
+B
+
+851
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vHlSoxg8WHo.mp4
+How old is IEZESHA?
+["18", "20", "17", "16"]
+A
+
+638
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ihfjEFGdZdc.mp4
+What is the weather when the last test drive?
+["Snowy", "Sunny", "Cloudy", "Rainny"]
+C
+
+684
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What color is the female singer's microphone?
+["Golden", "Write", "Red", "Green"]
+D
+
+667
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/lDlA7cfNk8A.mp4
+Who sits in front of the cellist?
+["Accordionist", "Violinist", "Conductor", "Saxophonist"]
+B
+
+715
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wgBlACG927Y.mp4
+What animal statue is under the Dong Men Ding Food Street sign?
+["Hawk", "Panda", "Tiger", "Lion"]
+B
+
+817
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+What was written on the right glass door when Paul Agate entered the front door?
+["33", "03", "30", "32"]
+A
+
+710
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/iA_69g87Ilw.mp4
+What is in the bedside table's drawer?
+["Disposable slippers", "Landline", "Tissue", "Disposable underwear"]
+A
+
+709
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/iA_69g87Ilw.mp4
+What color is the hair dryer?
+["Black", "White", "Red", "Blue"]
+D
+
+783
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What kind of Mercedes-Benz car is this black one?
+["Maybach", "AMG GT", "C class", "E class"]
+A
+
+674
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/FaV0tIaWWEg.mp4
+Who is Mohd Adbuallah Khan?
+["A engineer", "A worker", "A teacher", "A farmer"]
+D
+
+713
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wgBlACG927Y.mp4
+What means of transportation do the vloggers take after getting off the high-speed train?
+["Taxi", "Subway", "Train", "Bus"]
+B
+
+591
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/SRq0weUKskM.mp4
+What is the first human girl holding when she first appears in the video?
+["A bag", "A doll", "A mobile phone", "A photo"]
+B
+
+887
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What is the item placed on the shelf after cleaning?
+["Adhesive tape", "Molds", "Boxs", "Tires"]
+B
+
+742
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/cXDT44zT8JY.mp4
+The shirtless person on the stage in the video is who?
+["Royce Gracie", "Kobe", "James", "Ken Shamrock"]
+D
+
+935
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Xjf5N9S3jAA.mp4
+Who comes to the sports field?
+["Margaret Smith Court", "Stefanos Tsitsipas", "Goran Ivanisevic", "Novak Djokovic"]
+B
+
+745
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+What action did she take?
+["She lies down", "She sticks out her tongue", "She squats down", "She sits down"]
+B
+
+769
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/W-BnDvXXfOs.mp4
+What number is on the pink hat worn by the singer in the video?
+["2", "14", "5", "3"]
+D
+
+757
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9-gOCOu_KGU.mp4
+Who is the women that comes to the sports field?
+["Mo Fara's", "Not Mentiened", "Mo Fara's aunt", "Mo Fara's wife"]
+D
+
+694
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What are her earrings like?
+["Black circle earrings", "White circle earrings", "Green circle earrings", "Red circle earrings"]
+C
+
+822
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/f8DKD78BrQA.mp4
+What's on the screen behind Jen-Hsun Huang when he talks about Ansys Rescale?
+["Boat", "Cart", "Airplane", "Car"]
+D
+
+763
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/k2FIFQIYBvA.mp4
+What is the envelope when it is opened?
+["A handful of candy", "A deck of playing cards", "A damages dollar", "A letter full of words"]
+B
+
+784
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/t-RtDI2RWQs.mp4
+What is the reaction of the Best Supporting Actress when she finds out she wins?
+["She shows indifference", "She appears excited", "She gives a faint smile", "She sheds tears of joy"]
+D
+
+759
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/k2FIFQIYBvA.mp4
+What does the man standing in the middle drink?
+["Fruit juice", "Coffee", "Milk", "Water"]
+D
+
+824
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QB7FoIpx8os.mp4
+What color suit is the first speaker wearing in the video?
+["Gray", "Green", "Black", "Blue"]
+A
+
+678
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rk24OUu_kJQ.mp4
+How many backup dancers struggle out of the silver cloth that is placed on the ground?
+["8", "4", "6", "2"]
+B
+
+749
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hjoDzK0siaM.mp4
+After the competition, three athletes follow behind the staff. Among them, where is the champion positioned among the three?
+["The champion is not among these three people", "Middle", "At the very front", "At the very back"]
+B
+
+814
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+What are the people holding a torch in their hand doing at night?
+["They are hiking", "They are fishing", "They are hunting", "They are cooking"]
+B
+
+740
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Hf-n1yfd8II.mp4
+Who's that guy in orange and always coughing?
+["Lin Dan's coach", "Lee Chong Wei's coach", "The audience", "The referee"]
+B
+
+852
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+What color bag does the medical care technician carry in the backstage during Andrew Stanton's performance?
+["Red", "Blue", "Black", "Orange"]
+D
+
+779
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+Who is the man in the blue shirt with white button?
+["Adrian", "Brian", "David", "Tony"]
+D
+
+836
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+What color is athlete 411 wearing?
+["Silver", "Red", "White", "Black"]
+A
+
+828
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RCAqKnvu_P0.mp4
+How many kinds of train cards are threre in Japan?
+["Three", "Two", "Four", "Five"]
+B
+
+730
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What is the hairstyle of the vlogger?
+["Dreadlocks", "Ponytail", "Mohawk", "Crew cut"]
+A
+
+782
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+What letter appears on the computer after the girl with orange hair comes down from the bed and turns on the computer?
+["M", "N", "V", "W"]
+D
+
+781
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+Who is the narrator?
+["John Hambley", "Robert Hardy", "Chris Walker", "David Rohl"]
+B
+
+731
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What color is vlogger's car?
+["White", "Black", "Green", "Blue"]
+B
+
+774
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+Who does the dancer group wearing suits pay tribute to?
+["Joker and Harley", "James Bond", "Sherlock Holmes", "Don Draper"]
+A
+
+664
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/lDlA7cfNk8A.mp4
+What color is the decoration on the edge of the stage?
+["Blue", "Red", "Black", "Yellow"]
+D
+
+833
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+What is the main color of the venue?
+["Black", "Red", "Pink", "Blue"]
+C
+
+789
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/USfvmoalqsw.mp4
+How many percentage of the land is covered in forest mentioned in the video?
+["60", "70", "40", "50"]
+B
+
+999
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wNCPgIVz15c.mp4
+What liquid is added on top of the grilled chicken at the beginning of the video?
+["Orange juice", "Homemade Masala", "Lemon juice", "Pepper water"]
+B
+
+815
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ihfjEFGdZdc.mp4
+What is Andy's top speed while testing the sports car?
+["304.47MPH", "307.47MPH", "307.44 MPH", "304.77 MPH"]
+D
+
+775
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+What does one of the group members do after the show for the performance that involves thundering storms in the background?
+["He waves", "He wipes his tears", "He lies down", "He kneels down"]
+B
+
+803
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vZV2WCKMsKs.mp4
+How many "woofs" does Chico have?
+["Two", "Four", "Three", "One"]
+B
+
+834
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+What is this athlete's number?
+["332", "365", "23", "335"]
+D
+
+967
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+What kind of weather follows the first rainy days?
+["Foggy days", "Sunny days", "Cloudy days", "Snowy days"]
+D
+
+826
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KbahC-QCKU8.mp4
+What brand of goggles does the vlogger family have?
+["SATA", "Honeywell", "Uvex", "Smith"]
+D
+
+758
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/k2FIFQIYBvA.mp4
+How many people are there at the beginning of the video?
+["2", "5", "1", "3"]
+B
+
+838
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z86xysw5Ncc.mp4
+How many meters is the race about men in the video?
+["1500", "3000", "100", "50"]
+C
+
+830
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/oZEVgDXJwCc.mp4
+What is the number of the player who substitutes Boateng?
+["12", "18", "2", "9"]
+C
+
+849
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/W-BnDvXXfOs.mp4
+What genders are the two people singing in the fourth song in the video?
+["Two individuals of the same gender", "One men and one women", "Two women", "Two men"]
+D
+
+743
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/cXDT44zT8JY.mp4
+What color gloves does the referee wear?
+["Green", "White", "Black", "Blue"]
+B
+
+829
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/jp2M1hIEtsk.mp4
+What is the word on vlogger's ceramic cup?
+["Frozen", "Flower", "Blue", "Cup"]
+A
+
+961
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gXnhqF0TqqI.mp4
+What does the first animal appear in the cartoon do when it just appears?
+["He cleans the sofa", "He paints the ceiling", "He makes the boat", "He paints the floor"]
+B
+
+739
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/oZEVgDXJwCc.mp4
+Who scores the first goal?
+["Pedro", "Puyol", "Kroos", "Alonso"]
+B
+
+862
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Cm73ma6Ibcs.mp4
+What else does the protagonist do in the shower besides taking a shower?
+["Eat some food", "Stitches her wound", "Drink spring water", "Relax"]
+B
+
+876
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+Why do the two women break down and cover their ears?
+["Because they can not finish the chores", "Because the neighbor is renovating the house", "Because there are dogs everywhere", "Because there are rats everywhere"]
+D
+
+794
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JPPMz8fEml0.mp4
+What is the discount on the vlogger's merchandise?
+["50% off", "30% off", "20% off", "40% off"]
+B
+
+902
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QWXlvx1GoTY.mp4
+Jonathan Davidson shows a video about what brand during his talk?
+["Saint Laurent", "Gucci", "Dior", "L'Oreal"]
+D
+
+843
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2LH3JCGkEBU.mp4
+In Vancouver 2010, what was performed while wearing a white dress?
+["Original dance", "Single skating", "Compulsory dance", "Free dance"]
+D
+
+751
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2LH3JCGkEBU.mp4
+What is the theme color of the Pyeongchang Winter Olympics?
+["Blue series", "Orange series", "Purple series", "Red series"]
+C
+
+877
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/2sriHX3PbXw.mp4
+After the performance of three people riding on top of each other, what's the next performance?
+["Dance performance", "Nunchaku performance", "Somersault performance", "Kite flying performance"]
+B
+
+846
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9tBsMSDoDqk.mp4
+What word is printed on each cup?
+["SODAR", "SONG", "SONIC", "SUGAR"]
+C
+
+870
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/28CIeC8cZks.mp4
+What does the girl use to find the person she is looking for in the video?
+["Mask", "Tail", "Phone", "Car"]
+A
+
+804
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/sk00epALZps.mp4
+What color tie is the host wearing?
+["Purple", "Red", "White", "Black"]
+A
+
+907
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+What is this video introducing?
+["My First Time in New Delhi", "My First Time in Jakarta", "My First Time in Tokyo", "My First Time in Singapore"]
+B
+
+858
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What is the name of the stripper?
+["Alexis", "Roxana", "Kindall", "Mia"]
+D
+
+840
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z86xysw5Ncc.mp4
+What's the number on the back of Tyson Gay?
+["3218", "3712", "3718", "3217"]
+D
+
+883
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/GcRKREorGSc.mp4
+What happens after two lions lying on the grass enjoying sunshine, and then a bird standing on top of a rock?
+["Ostrich drink water", "Deers eat the grass", "Giraffes eat the grass", "Zebra eat the grass"]
+D
+
+963
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gXnhqF0TqqI.mp4
+What is the weather like after the water vole finds mole in the forest?
+["It fogs", "It rains", "It suns", "It snows"]
+D
+
+806
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/sk00epALZps.mp4
+What does Kobe in a black suit take out of his pants pocket?
+["Cup", "Picture", "Letter", "Medal"]
+D
+
+844
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9-gOCOu_KGU.mp4
+What competetion is going on based on the text in the video?
+["Men's 100000M", "Men's 1000M", "Men's 100M", "Men's 10000M"]
+D
+
+842
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hjoDzK0siaM.mp4
+The video begins with a person walking forward while holding a sign. What does the sign say?
+["Floor", "Flyer", "Flood", "Fool"]
+A
+
+899
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xECIRjlxM3U.mp4
+Where are the prince and the mermaid before they go back to the palace?
+["On the boat", "On a ship", "In the kitchen", "Beneath the sea"]
+A
+
+915
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RbpKkvlHYTw.mp4
+How does the vlogger get to Hannam?
+["By plane", "By subway", "By train", "By car"]
+B
+
+879
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_zrgbA3FMVE.mp4
+Where is the girl with short blond hair taken by two men in suits wearing sunglasses?
+["Hospital", "School", "Hotel", "Prison"]
+D
+
+911
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+Where does the vlogger go after leaving the church?
+["Mall", "Hotel", "Subway Station", "Airport"]
+B
+
+808
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/moALQl818ZY.mp4
+What words appear on the screen when there is a basketball player and P&G logos appear at the same time?
+["The Five Things", "JUST IN", "Amazing news", "BREAKING NEWS"]
+A
+
+807
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Vk_Af0htZGU.mp4
+How old is Magan?
+["27", "16", "17", "18"]
+C
+
+820
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/7HjNIPIgUg4.mp4
+Where is this event held?
+["Sao Paulo", "Manchester", "Rome", "Dubai"]
+D
+
+913
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/USfvmoalqsw.mp4
+What color of the jacket does Sophia wear when she sees the crane status?
+["Pink", "Black", "White", "Blue"]
+A
+
+957
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qYMnM5blZIE.mp4
+How is the weather when the ladybug picks up the apple?
+["Snowy", "Sunny", "Hazy", "Rainy"]
+A
+
+960
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gXnhqF0TqqI.mp4
+Where are the woman and children when they first appear in the video?
+["The train", "The lawn", "The boat", "The bus"]
+C
+
+940
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/VTCDQYYKA9o.mp4
+Is the staff wiping the table tennis table with their left hand or right hand?
+["No staff wiping the table", "Left hand", "Right hand", "Both used"]
+C
+
+917
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RbpKkvlHYTw.mp4
+Where is the vlogger at when there is gondola above him?
+["On a beach", "By the sea", "In a mountain", "At an amusement park"]
+B
+
+897
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xECIRjlxM3U.mp4
+What does the scene switch to after the mermaid gets dress at dawn?
+["The ship", "The store", "The kitchen", "The sea"]
+C
+
+805
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/sk00epALZps.mp4
+What color is Kobe's tie at the beginning of the video?
+["Red", "White", "Black", "Purple"]
+C
+
+888
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4HGQL_McDQ.mp4
+What is the main color of the car interior?
+["Purple", "Black", "Red", "Blue"]
+D
+
+854
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+What is written on the blackboard with chalk itself, but no one is around?
+["Apple", "Sofa", "Keys", "Note"]
+C
+
+931
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What does the vlogger do after cleaning the grocery and fruit?
+["She takes out her clothes", "She has a rest", "She goes to bed", "She does some cleanings"]
+D
+
+776
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+What organ does the Baron of the Universe use to pull heavy objects?
+["Eye socket", "Nose", "Eyebrow", "Ear"]
+B
+
+1007
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-WnyRMZqV1U.mp4
+Where does the movie directed by Gary Rydstrom, Tom Johnson and Mark Ulano take place?
+["Land", "Magma", "Ocean", "Space"]
+D
+
+914
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/evYm0cELO3I.mp4
+Where does the vlogger and crab catcher catch a carb?
+["Cave", "Sea", "Land", "Beach"]
+C
+
+1126
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/0bwyCF0HteE.mp4
+What are the magic tricks about?
+["Cards trick magics.", "Quick change magics.", "Street magics.", "Coins trick magics."]
+B
+
+975
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pXD3txG2bVQ.mp4
+What does the man with the mustache do when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?
+["He chases a cat", "He chases a cow", "He chases a dog", "He chases a bird"]
+D
+
+946
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/AeEYQ62t8hA.mp4
+After the host let go of the hand of the man in the drab suit, what is the interaction with him and the man with the white beard?
+["They shake hands with each other", "They hug together", "They kiss each other", "They cry together"]
+B
+
+871
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/28CIeC8cZks.mp4
+How many people are leaving by boat in the video?
+["2", "4", "0", "1"]
+D
+
+929
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What does the vlogger do after she ties her hair?
+["Sleep again", "Drink water", "Play with her mobile phone", "Read a book"]
+B
+
+1118
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/AnWKOvjFl8k.mp4
+How do Joker and Harley escape when their car is caught by Batman's car in the video?
+["Run to the hill.", "Split their car.", "Hide in the grass.", "Make their car fly."]
+B
+
+1095
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_126.mp4
+What color is the water on the tropical beach in the video?
+["Dark blue", "Clear", "Green", "Azure blue"]
+D
+
+990
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/XNtNNplAwiI.mp4
+Who steals the S-shaped jade?
+["The red calabash boy", "The blue calabash boy", "The yellow calabash boy", "The green calabash boy"]
+B
+
+925
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/O14bbpvy2x0.mp4
+What does the vlogger use to wipe the yellow chopping board after cleaning it?
+["White tissue", "Black tissue", "Blue tissue", "Yellow tissue"]
+C
+
+948
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/NzCO0G8AGLU.mp4
+How are two pigs treat after they show up on the island?
+["Women keep pigs as pets", "Two pigs are eat by men", "Men keep pigs as pets", "Two pigs are eat by women"]
+A
+
+1009
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/-WnyRMZqV1U.mp4
+What is the relationship between Bong Joon Ho and the elderly man whom people are standing up and applauding for during his speech?
+["Actor and producer", "Employer and employee", "Father and son", "Senior producer and young producer"]
+D
+
+860
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Cm73ma6Ibcs.mp4
+How is the weather like in the opening?
+["Cloudy", "Snowy", "Sunny", "Rainy"]
+B
+
+985
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RjDrZkBwzho.mp4
+What is the weather like when the panda is caught?
+["Sunny weather", "Heavy rain weather", "Cloudy weather", "Heavy snow weather"]
+B
+
+1087
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/20lTg3yUrO4.mp4
+Who apologises to Nigerians?
+["Former Governor of the Riverse State", "The mlitary leader of Riverse State", "Minster of Power", "The State's Political Leader"]
+C
+
+867
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/q01CUy_gwdU.mp4
+What does the woman do after she sees a rolling stone on the ground
+["She runs away", "She goes to meet the man", "She throws her shoe away", "She dances with people"]
+C
+
+995
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/EpMLAQbSYAw.mp4
+What is the category of this video?
+["A documentary about America", "A documentary about the economy", "A documentary about the sport", "A documentary about the festival"]
+B
+
+953
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/qAIRFyR6NyQ.mp4
+What color clothes does the protagonist wear when she is taken away to the concentration camp?
+["Black", "Red", "Yellow", "Blue"]
+D
+
+996
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KktLi3UifPY.mp4
+What are the two hosts looking for in the field?
+["Natto", "Rice", "Soybeans", "Grasshoppers"]
+D
+
+956
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Za2Z_JRxCuk.mp4
+Where does the protagonist find one of her friend?
+["In a meeting room", "In a garden", "In a prison cell", "By the cliff"]
+C
+
+930
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What does the vlogger do after putting things into the washing machine?
+["She plays with her mobile phone", "She reads a book", "She cooks some food", "She washes her face"]
+D
+
+969
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+What is the facial expression of the little girl when she wakes up in the garden and walks alone?
+["Excited", "Angry", "Depressed", "Happy"]
+C
+
+992
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/XNtNNplAwiI.mp4
+How many calabashs are there on the calabash vine?
+["8", "6", "5", "7"]
+D
+
+1042
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Va_9Q6ekm60.mp4
+What does the the shop assistant do after assembling the ice cream machine?
+["Pour four glasses of water", "Open four glasses of water", "Pour four boxes of milk", "Open four boxes of milk"]
+D
+
+1130
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ZP-Y2S750KY.mp4
+What does the panda do in the video?
+["Eating some food.", "Playing with people.", "Rolling down.", "Sleeping."]
+C
+
+1065
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hjoDzK0siaM.mp4
+What mood is the fifth contestant in after the competition?
+["She is sad", "She is very disappointed", "She has a blank expression", "She is happy"]
+D
+
+1193
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/0iED5BojTMI.mp4
+Who wins the women's A final?
+["Zoe Candelier.", "Hee Won Son.", "Melina Tremblay.", "Caitlin Pelkey."]
+B
+
+988
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/XNtNNplAwiI.mp4
+Who does the orange calabash boy meet after he drops into the cliff?
+["The red calabash boy", "The yellow calabash boy", "The grandpa", "The snake"]
+C
+
+1050
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/jp2M1hIEtsk.mp4
+What does the vlogger do after doing some watercolor art?
+["Cook her dinner", "Take some rest", "Cook her lunch", "Post her picture on the internet"]
+A
+
+1158
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/U9-Qy3H_UBY.mp4
+What character is the person speaking to the group at the beginning of the video?
+["Basketball Coach.", "Referee.", "University Professor.", "Director."]
+A
+
+1027
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/_T2Avd3tFHc.mp4
+What is the destination of the trip?
+["Romania", "Croatia", "Albania", "Moldova"]
+D
+
+845
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9-gOCOu_KGU.mp4
+What is the score of the champion?
+["27:30.42", "27:30.90", "29:32.12", "27:01.17"]
+A
+
+933
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gbDR39yIs3Y.mp4
+What does she do after cleaning her face?
+["Polish her nails", "Sleep", "Take a nap", "Watch TV"]
+A
+
+1038
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/iA_69g87Ilw.mp4
+Where does the vlogger have his second day breakfast?
+["In a lounge", "At a local restaurant", "At the dinning room", "In his room"]
+D
+
+1066
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hjoDzK0siaM.mp4
+After athlete number 404 finished their performance, what does she do for the audience?
+["She blows kisses to the audience", "She punches toward the audience", "She waves to the audience", "She whistles to the audience"]
+C
+
+1004
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+Where do the elementary school students sit when the teacher is teaching?
+["They sit on tables", "They sit on chairs", "They sit on the floor", "They stand"]
+C
+
+971
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/QgWRyDV9Ozs.mp4
+Where does Thumbelina sit listening to the old woman's story?
+["On the mini stool", "In the bed where she sleeps", "On the old woman's nose", "On a woman's hat"]
+C
+
+1094
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_232.mp4
+In this video, how many times does the scene of the 'paragliding' action appear in total?
+["3", "4", "1", "6"]
+B
+
+1048
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What is the man primarily exercising today?
+["Core muscles", "Cardiovascular system", "Upper body", "Lower body"]
+D
+
+1081
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What does Dominique do after the man with red shirt and black and red pants comes to the stage?
+["Dominique slaps the man", "Dominique hugs the man", "Dominique quarrels with the man", "Dominique dances with the man"]
+B
+
+1152
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/P6Q7bQTnrjk.mp4
+Who were the individuals in the video who were subsequently arrested for child abuse?
+["Ruby Franke.", "Ruby Franke and Jodi Hildebrandt.", "Kevin Frankie and  Ruby Franke.", "Ruby Franke , Jodi Hildebrandt and Pam Bacher."]
+B
+
+1092
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/count_201.mp4
+In this video, how many instances are there of the 'playing trombone' action scene in total?
+["4", "2", "3", "5"]
+B
+
+1020
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/16Z-XQh9jhk.mp4
+What are the dancers with pink ponytails wearing on their heads?
+["White headgear", "Black hat", "White hat", "Black headgear"]
+D
+
+1108
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_136.mp4
+What is the middle aged female executive doing on the white board?
+["Writing a letter", "Drawing a portrait", "Drawing a project plan scheme", "Erasing notes"]
+C
+
+936
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Xjf5N9S3jAA.mp4
+How many titles did Tsitsipas got?
+["98", "12", "3", "10"]
+D
+
+1073
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/W-BnDvXXfOs.mp4
+The person singing the third song is sitting on what?
+["Sitting on a red chair", "Sitting on a green chair", "Sitting on a yellow bench", "Sitting on a blue sofa"]
+A
+
+970
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S8vPx-u9p_A.mp4
+Where does the black bird on the beach take the little girl to?
+["A river", "A palace", "A mountain", "A garden"]
+B
+
+1107
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_111.mp4
+Where are the silhouette fishermen performing their popular activity during the monsoon season?
+["In a city", "In a forest", "On a boat", "On the beach"]
+D
+
+909
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tH_5YbklevQ.mp4
+What is the temperature like when the vlogger entered the national monument?
+["Mild", "Cool", "Cold", "Intense heat"]
+D
+
+1006
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vaL_vSdZKZo.mp4
+How many times did Sergey Sarancha's interview segments appear?
+["0", "3", "1", "2"]
+D
+
+1032
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/RCAqKnvu_P0.mp4
+Where does the vlogger go after visiting Takeshita Street?
+["TeamLab Planets", "Shibuya sky", "Asakusa", "Mt. Fuji"]
+C
+
+1044
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Va_9Q6ekm60.mp4
+What is the second non-flour substance the shop assistant put into the mixing bowl?
+["Milk", "Water", "Egg", "Butter"]
+D
+
+1141
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/mAwgdX5VxGc.mp4
+What is the speaker's opinion on reversing type 2 diabetes?
+["It can be treated through insulin therapy.", "It can be treated through surgical interventions.", "It can be treated naturally.", "Cannot be inferred."]
+C
+
+1258
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/lMxFbRc3Luk.mp4
+In line with the video evidence, what is the function of the necklace that the girl stole from the museum?
+["Generate fire.", "Make people invisible.", "Generate electricity.", "Seize superpowers from others."]
+D
+
+1047
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1FsiZgGZU70.mp4
+What color shorts is the man wearing during the workout?
+["Black", "Sky blue", "Yellow", "Dark red"]
+B
+
+1186
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z4Ug2ONxgYw.mp4
+What is the suggested treatment for goiter as mentioned in the video?
+["Surgical removal of the thyroid gland.", "High-intensity exercise regimen.", "Provide iodine.", "Long-term use of synthetic thyroid hormones."]
+C
+
+1079
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What is the first interview's name?
+["Mia", "Alexis", "Sierra", "Kindall"]
+C
+
+1052
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/oZEVgDXJwCc.mp4
+Where is the football game held?
+["I don't know", "German", "Spain", "Durban"]
+D
+
+1001
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+What is the color of the sleeveless top one of the four people at the beginning of the video wear?
+["Grey", "White", "Purple", "Beige"]
+B
+
+1035
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/iA_69g87Ilw.mp4
+Where does the vlogger go first aftering exiting his room?
+["Badminton court", "Stadium", "Indoor swimming pool", "Gym"]
+C
+
+1102
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_144.mp4
+What color is the pumpkin that the chef is using to prepare the soup?
+["Orange", "White", "Yellow", "Green"]
+A
+
+1103
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_123.mp4
+What event are the students celebrating in the park?
+["Promotion", "Birthday", "Graduation", "Admission"]
+C
+
+1061
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+How does Athlete No. 403 feel after completing her movements?
+["She is very excited", "She's a little upset", "She is angry", "She is very satisfied"]
+B
+
+1074
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/vHlSoxg8WHo.mp4
+How many men are shown on the screen between Brittany and the male host?
+["3", "4", "2", "1"]
+C
+
+1139
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Sm0lziolZyM.mp4
+What do the expanding red lines on the map in the first few minutes of the video stand for?
+["The Yellow River.", "The Silk Road.", "Du Fu's route to Xi'an.", "The Yangtze River."]
+B
+
+1136
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/GDzuMTvHnJE.mp4
+What kind of work did the man named Tony engage in?
+["Unemployed.", "Second-hand goods business.", "Driver.", "Cleaner."]
+B
+
+1109
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_148.mp4
+What is the child doing at home in the video?
+["Playing game on mobile phone", "Sleeping", "Playing with toys", "Eating"]
+A
+
+1080
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What does Sierra do after the first male guest show up on the stage?
+["She hugs the man", "She talks  with the man", "She slaps the man", "She kisses the man"]
+C
+
+1125
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/7tLtu3QT2OI.mp4
+In line with the video evidence, what do the sportsmen do before the match gets started?
+["They do the opening dance.", "They sing their national anthem.", "They change their clothes.", "None of the above."]
+B
+
+1078
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pe_LddfHAUU.mp4
+What does the contestant, wearing only black leggings, with a skeleton painted on his top and a skull face painted on his face, perform?
+["He performs a dance", "He performs a rap", "He performs bone dislocation", "He performs singing"]
+C
+
+1121
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/xvQOEdwAgj0.mp4
+As depicted in the video, how do the jungles of two teams start?
+["One loses his lane.", "At different sides.", "At the same side.", "At both top sides."]
+B
+
+1106
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_126.mp4
+What type of view is provided of the tropical beach in the video?
+["Close-up view", "Side view", "Top down aerial view", "Bottom-up view"]
+C
+
+1064
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z86xysw5Ncc.mp4
+What place is Su Bingtian in for Men's 100M Round 1 Heat 6?
+["Fourth", "Third", "First", "Second"]
+B
+
+972
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pXD3txG2bVQ.mp4
+Who do the boy and the cat meet on the way they first leave home?
+["The old man", "The couple", "The rabbit", "The dog"]
+D
+
+1244
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/BjmPvovl-V4.mp4
+What kind of experts does Kmele consult in sequence in the video?
+["Spiritual leaders, neuroscientists, entrepreneurs, physicists.", "Physicists, neuroscientists, entrepreneurs, neuroscientists.", "Neuroscientists, spiritual leaders, entrepreneurs, physicists.", "Entrepreneurs, spiritual leaders, physicists, neuroscientists."]
+C
+
+1104
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_141.mp4
+What season is it when the little Asian girl in a bikini is creating sand piles on the beach at sunset?
+["Winter", "Spring", "Autumn", "Summer"]
+D
+
+980
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/pXD3txG2bVQ.mp4
+What does the cat do after the man in brown having meal with the boy, cat, and dog?
+["The cat hides the box", "The cat opens the box", "The cat replaces the box", "The cat throws the box away"]
+C
+
+1154
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/KTjeh5QPL0o.mp4
+What is the role of the man who wear a T-shirt with the words "BLUE GHOST" on it?
+["Executive.", "Engineer.", "Journalist.", "Visitor."]
+B
+
+1105
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_136.mp4
+What is the serious older mature businesswoman writing on the whiteboard?
+["Notes", "A novel", "Her personal diary", "A poem"]
+A
+
+1140
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/5LU_XY0z2ZY.mp4
+What could be the key to truly combating and even preventing the disease that the video mainly talks about?
+["Enhanced research into drugs that specifically target beta-amyloid proteins may hold the key to treating Alzheimer's disease.", "Enhance metabolic health.", "Increased investment in research and development of new brain surgeries.", "Innovate on traditional cognitive therapy exercises."]
+B
+
+1183
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8UQFaVCV8S8.mp4
+What is the most likely role of the person shooting the video?
+["The team's coach.", "Student volunteers.", "Players' families.", "Replacements."]
+C
+
+1188
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/fuDNhWIa6KQ.mp4
+Who is the greatest fighter according to this video?
+["Grey Worm.", "Jon Snow.", "Ser Brienne of Tarth.", "No one above is correct."]
+B
+
+1060
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/rp4NKWb7dXk.mp4
+What kind of competition is this?
+["Men's Uneven Bars", "Men's gymnastics", "Women's Uneven Bars", "Women's gymnastics"]
+C
+
+1003
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/TZ0j6kr4ZJ0.mp4
+Where is the person with the number 9615 on their chest being interviewed in the video?
+["At the beach", "In the kitchen", "In the dormitory", "In the forest"]
+C
+
+1131
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/zAXbdzvCeV8.mp4
+In line with the video evidence, what does the younger tiger do when it is found by the dominant tiger?
+["Escapes.", "Engages in a fight.", "Submits.", "Playfully interacts."]
+C
+
+1098
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_102.mp4
+What is the American toad's strategy to avoid detection in the video?
+["Camouflage", "Fighting", "Hiding", "Running away"]
+A
+
+1127
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Z2G9bTvffAw.mp4
+What do the spectators do after the performance?
+["Take photos with the lion.", "Pat the lion's head.", "Attempt to play the drum.", "All of the above."]
+D
+
+1223
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/hIJtZN8w03A.mp4
+How many tricks are revealed in this video?
+["7.", "9.", "11.", "13."]
+C
+
+1146
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/YtAL8y2lACs.mp4
+In line with the video evidence, how do the fractures form?
+["Due to rocks experiencing mutual stress.", "Resulting from the force of two rivers against the bank.", "Chemicals such as acids erode rocks, leading to fractures.", "Due to the shearing effect."]
+D
+
+1082
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/JTa_Ue2MSwc.mp4
+What happens to the green dress woman after Brian dumps his girlfriend?
+["She laughs", "She cries", "She applauds", "She screams"]
+B
+
+1197
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/uC8TK7GH85o.mp4
+Throughout the video, how many scholars in total show up in the video and comment on Napoleon?
+["Two.", "Three.", "One.", "Four."]
+B
+
+1284
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/whksDmTR9YE.mp4
+Why do hermit crabs fight with each other?
+["To avoid the attack of conch.", "They fight for food.", "They need new houses.", "To protect themselves."]
+C
+
+1138
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/whksDmTR9YE.mp4
+According to the video, what does the cougar fight with?
+["A tiger.", "A lion.", "A hippo.", "A grizzly."]
+D
+
+1232
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/fLO5Ww0V2qU.mp4
+How many stores has she visited in this video?
+["3.", "4.", "5.", "6."]
+B
+
+1070
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/9-gOCOu_KGU.mp4
+How many people participated in the final of Men's 10000M?
+["10", "39", "9", "3"]
+B
+
+1148
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/K946mptgzTU.mp4
+According to the video, what is Chimeya famous for?
+["Rainfall.", "Drought.", "Camel.", "Tannery."]
+C
+
+1184
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/tslKtm6Le1s.mp4
+What is the relationship between the two characters in the video?
+["Strangers who met by chance.", "Friends.", "Family.", "Lovers."]
+D
+
+1101
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_102.mp4
+What is the state of movement of the American toad at the mouth of the den in the video?
+["Very little movement", "No movement at all", "Constant movement", "Moderate movement"]
+A
+
+1114
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wCkQ138sg6M.mp4
+What is the standing man in the black shirt doing in the first minute of the video?
+["Dancing.", "Playing the violin.", "Playing the piano.", "Conducting the orchestra."]
+D
+
+1200
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/YtAL8y2lACs.mp4
+How many people does the Ross Ice Shelf team consist of?
+["2.", "23.", "12.", "8."]
+C
+
+1179
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ZLRyTFIZOIs.mp4
+What is the initial budget for each person at the start of the challenge?
+["£71.", "£69.", "£207.", "£138."]
+B
+
+1170
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/wTlERUE8LVw.mp4
+What is the video hero's favorite food before he eats the roast suckling pig?
+["Frogs.", "Beef stew.", "Roasted rabbit.", "Deep fried pork chunks."]
+D
+
+1248
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1wzgMHrkrys.mp4
+Who is interviewed both before and after the race based on the video?
+["Corey Alexander.", "Ashton Yates.", "Jake Gagne.", "None of the above."]
+C
+
+1172
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/gHXaUDx7P0Y.mp4
+What was the trigger for the company's name change to Nike in 1971?
+["Negotiations with Onitsuka failed.", "Blue Ribbon went bankrupt.", "The success of the Olympic Games.", "Phil didn't like the original name."]
+A
+
+1255
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/NCNeFSJexSY.mp4
+How were the recurring short video clips captured in the video?
+["Using Vision Pro.", "Using a cell phone.", "Using a video camera.", "Not determinable."]
+A
+
+1230
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/p0qf48lXD4M.mp4
+How many DIYs have been made in this video?
+["6.", "8.", "10.", "12."]
+C
+
+1259
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/Sp2nxlrQ89w.mp4
+In line with the video evidence, why does the orange stickman want to destroy the Minecraft world?
+["He wants to save his son.", "He is too sad.", "He loses his son.", "He does like the world."]
+C
+
+1157
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/E-YnmCB6yjo.mp4
+At the end of the video, what is the sentiment of the four Russian defectors towards a woman named Judy Tulk?
+["Gratitude.", "Missing.", "Admiration.", "Cannot be determined."]
+A
+
+1143
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/BjmPvovl-V4.mp4
+What is Kemle's attitude towards the explanation of consciousness by the experts?
+["He agrees with the neuroscientist.", "He agrees with the spiritual leader.", "He agrees with the entrepreneur.", "Cannot be inferred."]
+D
+
+1265
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/GDzuMTvHnJE.mp4
+After receiving a one-time benefit of £26,000, what transformation did the three families experience?
+["Became more motivated in life.", "Became less willing to spend money.", "Became more trustworthy.", "Became more stressed."]
+A
+
+1099
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_126.mp4
+What type of beach is shown in the video?
+["Pebble beach", "Man-made beach", "Sandy beach", "Wild rocky beach"]
+D
+
+1276
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/iWT0kl1k32M.mp4
+How do they typically determine the final food rating in the video?
+["Top marks.", "Take the average.", "The score that given by the person in the middle of the video.", "Majority vote."]
+D
+
+1100
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_128.mp4
+From where is the female making the video call?
+["From her home living room", "From her office", "From her car", "From a coffee shop"]
+A
+
+1228
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/yh-EHgkFci4.mp4
+How many of the shows in the video are solo acts?
+["2.", "1.", "4.", "3."]
+B
+
+1110
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/needle_133.mp4
+What color are the cows eating hay from the stall at the farm outdoors on a summer sunny day?
+["Brown", "Spotted", "White", "Black"]
+D
+
+1212
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/kg6L6LL523Q.mp4
+After buying a cup of coffee, how many challenges does the man complete?
+["5.", "7.", "6.", "4."]
+C
+
+1266
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/B9He5DVePvk.mp4
+Based on the video, what mode of transportation do you think the Amish use?
+["Only horse-drawn carriages.", "Horse-drawn carriages and cars.", "Only cars.", "Cannot be determined."]
+B
+
+1237
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/K9MQATj3894.mp4
+How many embroidery techniques does the author teach in the video?
+["8.", "10.", "12.", "9."]
+D
+
+1256
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/8IZvEF4Ui10.mp4
+Why is the author playing a video game at the end of the video?
+["To evaluate computer performance.", "As part of a video game advertisement placement.", "The author is engaging in live gaming.", "To produce a new game review."]
+A
+
+1253
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/elprD1hnDyU.mp4
+On which days of the week does the woman in the video take a rest?
+["Saturday, Monday.", "Thursday, Tuesday.", "Thursday, Saturday.", "Saturday, Sunday."]
+C
+
+1247
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/SrqTAg6n798.mp4
+In the opening section of the video, what is the sequence in which the pairs of men's 10m platform divers appear?
+["China, UK, Korea, Ukraine, Brazil.", "China, Ukraine, Korea, UK.", "China, UK, Germany, Ukraine.", "China, Ukraine, Korea, UK, Brazil."]
+D
+
+1162
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/HKbJtgUrHGk.mp4
+What is the function of the whiteboard?
+["It is used for presentations.", "It serves as a scoreboard.", "It is used for teaching.", "It serves as a billboard."]
+B
+
+1262
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/1NYQf_OXDqI.mp4
+In line with the video evidence, what is the weakness of the villain?
+["Water.", "Dark.", "Overconfidence.", "Attachment."]
+A
+
+1201
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/HvKpnaXYUPU.mp4
+How many cases are cited in the video to illustrate the craters caused by excessive methane in permafrost?
+["One.", "Three.", "Two.", "Four."]
+C
+
+1165
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/v4YhsooE5xY.mp4
+In the video, while evaluating five paintings, the man with platinum blonde hair and a pure black top contends that the highest-scoring painting was created by whom?
+["Romesh Nathan.", "Tim K.", "Josh Whitaker.", "Frank Skinner."]
+D
+
+1278
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/4VniCsSusJs.mp4
+Why do they throw food in a big bowl?
+["Prepare to throw them away.", "Serve food they hate.", "Prepare to mix and taste.", "Ready for others to try."]
+C
+
+1268
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/S_5vlPXLCRc.mp4
+What should team T1 do if they want to win this game?
+["They should accumulate gold as long as possible.", "They should defend.", "They should endure when the enemy fights with them.", "They should attack competitors positively."]
+D
+
+1272
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/md6mZDhuR9s.mp4
+How would you assess the passing skills as suggested in the video?
+["Imaginative passing and high spectator analysis, but also high turnover rate.", "Very competent with few passes of high quality and accuracy.", "High-quality and patience passing.", "Cannot be inferred from video."]
+C
+
+1277
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/IXjkbgrdAkw.mp4
+What is the main food sold at the restaurant that the main character in the video thinks has the most historical flavor?
+["Hotdog.", "BBQ.", "Fried chicken.", "Sandwiches."]
+B
+
+1282
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/ZkhAbUGoD18.mp4
+Why are there many toys in the room?
+["For entertaining guests.", "The host wants to move.", "For baby to play.", "For playing with cats."]
+D
+
+1231
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/CKYw_RG7i7w.mp4
+According to the video, how many grandsons does the founder of Gucci have?
+["3.", "4.", "5.", "6."]
+B
+
+1214
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/4qYqPmIO0v0.mp4
+How many timeouts does the HUN actively consume throughout the game?
+["2.", "5.", "7.", "3."]
+D
+
+1227
+/mnt/bn/wzr/datasets/VideoEval-Pro/videos/B6fvT2LKEDI.mp4
+In how many instances does archery make an appearance during these performances?
+["2.", "3.", "4.", "5."]
+B
+

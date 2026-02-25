@@ -1,0 +1,5 @@
+name: clip
+model_path: /mnt/bn/wzr/models/clip-vit-base-patch32
+
+fps: 1
+frame_num: 16

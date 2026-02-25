@@ -1,0 +1,5 @@
+name: siglip
+model_path: /mnt/bn/wzr/models/siglip-so400m-patch14-384
+
+fps: 1
+frame_num: 16

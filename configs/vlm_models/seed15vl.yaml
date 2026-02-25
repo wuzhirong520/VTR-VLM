@@ -1,0 +1,15 @@
+name: apicall
+model_path: "你的豆包模型名"
+api_key: "你的豆包API Key"
+base_url: "你的豆包API Base URL"
+support_video_url: true
+max_resolution: 720
+devices_list:
+  - -1
+  - -1
+  - -1
+  - -1
+  # - -1
+  # - -1
+  # - -1
+  # - -1

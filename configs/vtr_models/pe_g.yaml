@@ -1,0 +1,5 @@
+name: pe
+model_path: /mnt/bn/wzr/models/PE-Core-G14-448/PE-Core-G14-448.pt
+
+fps: 1
+frame_num: 16

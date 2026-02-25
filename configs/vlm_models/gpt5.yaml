@@ -1,0 +1,15 @@
+name: apicall
+model_path: "gpt-5-2025-08-07"
+api_key: "你的OpenAI API Key"
+base_url: "你的OpenAI API Base URL"
+support_video_url: false
+max_resolution: 360
+devices_list:
+  - -1
+  # - -1
+  # - -1
+  # - -1
+  # - -1
+  # - -1
+  # - -1
+  # - -1

@@ -1,0 +1,5 @@
+name: llava_video_encoder
+model_path: /mnt/bn/wzr/models/LLaVA-Video-7B-Qwen2
+
+fps: 1
+frame_num: 16

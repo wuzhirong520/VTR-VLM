@@ -1,0 +1,5 @@
+name: clip
+model_path: /mnt/bn/wzr/models/clip-vit-large-patch14-336
+
+fps: 1
+frame_num: 16

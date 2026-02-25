@@ -1,0 +1,175 @@
+# benchmark_config: lvbench
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_10_18_19_47/results.json
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_10_17_58_48/results.json
+
+
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb_0721_1/2025_07_23_22_42_06/results.json
+
+
+benchmark_config: videoevalpro_mcq_global_summary
+# benchmark_config: videoevalpro_mcq
+# benchmark_config: videoevalpro_open
+pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_10_21_37_54/results.json
+
+# benchmark_config: longvideobench
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_16_22_41_20/results.json
+
+# benchmark_config: mlvu
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_17_01_16_03/results.json
+
+# benchmark_config: videomme
+# pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_17_04_03_27/results.json
+
+# vlm_config: seed15vl
+vlm_config: llava_video_7b
+# vlm_config: qwen2.5vl_7b
+# vlm_config: adaretake_7b
+# vlm_config: llava_video_72b
+# vlm_config: qwen2.5vl_72b
+# vlm_config: adaretake_llava_7b
+# vlm_config: qwen3vl_8b
+
+# vlm:
+#   extra_model_config:
+#     add_time_instruction: True
+
+# vlm:
+#   extra_model_config:
+#     torch_dtype: float16
+# vlm:
+#   extra_model_config:
+#     longvideo_kwargs:
+#       frame_chunk_size: 64
+#       chunked_prefill_frames: 9999999999
+#       kvcache_compression: True
+#       kvcache_compression_kwargs: 
+#           compression_method: "stdvidlkv"
+#           dynamic_compression_ratio: True
+#           prompt_guided_compression: True
+#           max_guide_length: 152
+#           pos_embed_reforge: False
+#           max_input_length: 16000
+#           enable_temporal_adaptation: True
+#           temporal_adaptation_ratio: 4
+#           budget_allocation_method: "adakv"
+
+# enable_vtr: false
+enable_vtr: true
+
+# vtr_config: pe_l
+vtr_config: pe_g
+# vtr_config: clip_l14_336
+# vtr_config: siglip
+# vtr_config: clip_b32
+# vtr_config: clip_b16
+# vtr_config: clip4clip
+# vtr_config: llava_video_encoder
+
+qof:
+  # mode: ques_only
+  # mode: ques_opts
+  # mode: gt
+  # mode: opts_only
+  mode: ques_opts_global
+
+  # mode: generate_opts
+  # # option_generate_prompt: "Please generate four options (A/B/C/D) for the question : "
+  # # generate_num: 3
+  # # scale: 2
+  # option_generate_prompt: "Given the video and the question, generate some possible answers labeled A, B, C, and D.\nQuestion : "
+  # generate_num: 1
+  # scale: 1.5
+
+  # mode: pre_gen_opts
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/lvbench/2025_07_15_18_49_46/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/videoevalpro_open/2025_07_18_16_18_43/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/videoevalpro/2025_07_15_19_11_30/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/longvideobench/2025_07_18_13_42_13/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/mlvu/2025_07_18_15_26_35/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/videomme/2025_07_18_14_25_50/results.json
+  # # scale: 1.5
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/lvbench/2025_07_11_17_51_01/results.json
+  # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/videoevalpro_open/2025_07_18_17_00_56/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/longvideobench/2025_07_17_10_45_41/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/mlvu/2025_07_17_12_20_20/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/videomme/2025_07_17_13_48_55/results.json
+  # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/videomme/2025_08_01_03_41_42/results.json
+  # scale: 1 
+
+  # mode: pre_gen_opts
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/llava/videoevalpro/2025_09_19_21_35_45/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/exp/main/4_generated_opts/qwen/videoevalpro/2025_07_15_19_11_30/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/gen_1113/2025_11_13_12_22_07/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/gen_1113/2025_11_13_13_23_58/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/gen_1113/2025_11_13_19_16_08/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/gen_1113/2025_11_13_19_33_37/results.json
+  # # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/vlm_1113/2025_11_13_22_04_47/results.json
+  # pre_gen_opts_path: /mnt/bn/wzr/code/VTR-VLM/logs/gen_1113/2025_11_14_10_44_50/results.json
+  # # scale: 2
+  # scale: 1.5
+
+
+  # mode: generate_opts
+  # option_generate_prompt: "Please generate four options (A/B/C/D) for the question, output according to the format and there should be no redundant content.\n\n# Output Format:\n A. option1\nB. option2\nC. option3\nD. option4\n\n# Question\n"
+  # generate_num: 1
+  # scale: 2
+
+vtr:
+  # fps: 0.5
+  # frame_num: 8
+
+  # frame_num: 1
+  # top_k: 768
+  # top_k_per: 1
+
+  # top_k: 8
+  # top_k_per: 8
+  # top_k_per_list: "[4,8,16]"
+
+  top_k: 16
+  top_k_per: 4
+  # top_k_per_list: "[[2,6],[4,6],[6,2],[8,2]]"
+  # top_k_per_list: "[2,4,6,8]"
+  # top_k_per_list: "[2,4,6]"
+  top_k_per_list: "[2,4,8]"
+  # global_sample: 4
+
+  # fps: 1
+  # frame_num: 16
+
+  # top_k: 48
+  # top_k_per: 16
+  # # top_k_per_list: "[8,10,12,14,16,18,20,22,24]"
+  # top_k_per_list: "[8,16,32]"
+  # # global_sample: 16
+
+  # top_k: 64
+  # top_k_per: 32
+
+  # top_k: 64
+  # top_k_per: 16
+  # top_k_per_list: "[8,16,32]"
+
+  # top_k: 48
+  # top_k_per: 16
+  # top_k_per_list: "[14,16,18]"
+
+
+enable_dynamic_resolution: false
+
+# enable_dynamic_resolution: true
+# dynamic_resolution:
+#   max_total_pixels: 20480
+#   # max_total_pixels: 131072
+#   # max_total_pixels: 65536
+#   max_size: 644
+#   min_size: 84
+#   # max_size: 672
+#   # min_size: 112
+#   # max_size: 736
+#   # min_size: 96
+
+dump_vtr_videos: false
+# # dump_vtr_videos: true
+
+# # save_similarity_infos: true

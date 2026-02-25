@@ -1,0 +1,5 @@
+name: clip4clip
+model_path: /mnt/bn/wzr/models/clip4clip-webvid150k
+
+fps: 1
+frame_num: 16

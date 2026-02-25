@@ -1,0 +1,3 @@
+name: lvbench
+video_dir: /mnt/bn/wzr/datasets/LVBench/all_videos
+anno_path: /mnt/bn/wzr/datasets/LVBench/video_info.meta.jsonl

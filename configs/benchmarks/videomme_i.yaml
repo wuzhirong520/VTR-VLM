@@ -1,0 +1,5 @@
+name: videomme
+video_dir: /mnt/bn/wzr/datasets/VideoMME/data
+anno_path: /mnt/bn/wzr/datasets/VideoMME/test-00000-of-00001.parquet
+subtitle_dir: /mnt/bn/wzr/datasets/VideoMME/subtitle
+subset: full w subs
