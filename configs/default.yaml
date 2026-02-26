@@ -6,8 +6,8 @@
 # pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb_0721_1/2025_07_23_22_42_06/results.json
 
 
-benchmark_config: videoevalpro_mcq_global_summary
-# benchmark_config: videoevalpro_mcq
+# benchmark_config: videoevalpro_mcq_global_summary
+benchmark_config: videoevalpro_mcq
 # benchmark_config: videoevalpro_open
 pre_calc_emb_path: /mnt/bn/wzr/code/VTR-VLM/logs/emb/2025_07_10_21_37_54/results.json
 
@@ -67,10 +67,10 @@ vtr_config: pe_g
 
 qof:
   # mode: ques_only
-  # mode: ques_opts
+  mode: ques_opts
   # mode: gt
   # mode: opts_only
-  mode: ques_opts_global
+  # mode: ques_opts_global
 
   # mode: generate_opts
   # # option_generate_prompt: "Please generate four options (A/B/C/D) for the question : "
